@@ -1,0 +1,242 @@
+[
+  {
+    "question_text": "31. What is the difference between the greatest 4-digit number and the least 4-digit number formed by using the digits 1, 5, 0 and 7 once?",
+    "option_a": "6003",
+    "option_b": "6453",
+    "option_c": "6531",
+    "option_d": "6093",
+    "correct_option": "D"
+  },
+  {
+    "question_text": "32. Kanta has five dozen chocolates. She gives 1/6 of these to Aruna and 1/5 of the remaining chocolates to Radha. She then gives 1/8 of the remaining chocolates to each of her other three friends. How many chocolates does Kanta have now?",
+    "option_a": "20",
+    "option_b": "25",
+    "option_c": "10",
+    "option_d": "15",
+    "correct_option": "A"
+  },
+  {
+    "question_text": "33. (LCM of 96, 120 and 160) ÷ (HCF of 72 and 168) is equal to",
+    "option_a": "15",
+    "option_b": "20",
+    "option_c": "30",
+    "option_d": "12",
+    "correct_option": "C"
+  },
+  {
+    "question_text": "34. The cost of 8 Samosas is ₹ 156 and that of 4 Idlis is ₹ 98. Sunita has a ₹ 200 note only and buys 3 Samosas and 3 Idlis. How much money is left with her now?",
+    "option_a": "₹ 66",
+    "option_b": "₹ 68",
+    "option_c": "₹ 72",
+    "option_d": "₹ 65",
+    "correct_option": "B"
+  },
+  {
+    "question_text": "35. 24 L 650 mL of milk is filled in 29 bottles each of same size. The quantity of milk in 15 such bottles is",
+    "option_a": "12 L 750 mL",
+    "option_b": "13 L 600 mL",
+    "option_c": "15 L 300 mL",
+    "option_d": "11 L 900 mL",
+    "correct_option": "B"
+  },
+  {
+    "question_text": "36. The internal length, breadth and height of a cuboidal box are 12 cm, 10 cm and 8 cm, respectively. A cubical box has side (internal) 9 cm. Avin tries to pack 1800 cubical dice of side 1 cm each in these two boxes. The number of dice which are left unpacked is:",
+    "option_a": "121",
+    "option_b": "123",
+    "option_c": "129",
+    "option_d": "111",
+    "correct_option": "A"
+  },
+  {
+    "question_text": "37. A bag containing potatoes, onions and lemons weighs 46 kg 160 g. The weight of potatoes is 17 kg 115 g and that of onions is 15 kg 325 g. The weight of empty bag is 120 g. If 30 lemons weigh 1 kg, then what is the number of lemons in the bag?",
+    "option_a": "402",
+    "option_b": "408",
+    "option_c": "414",
+    "option_d": "396",
+    "correct_option": "B"
+  },
+  {
+    "question_text": "38. Which of the following has/have only two lines of symmetry?\nA. Equilateral triangle\nB. Rectangle\nC. Rhombus\nD. Isosceles triangle\nChoose the correct option.",
+    "option_a": "Only B",
+    "option_b": "B and C",
+    "option_c": "C and D",
+    "option_d": "A and B",
+    "correct_option": "B"
+  },
+  {
+    "question_text": "39. Which of the following letters has a rotational symmetry but no line symmetry?",
+    "option_a": "M",
+    "option_b": "O",
+    "option_c": "Z",
+    "option_d": "X",
+    "correct_option": "C"
+  },
+  {
+    "question_text": "40. A pentagonal pyramid has",
+    "option_a": "six faces and six edges",
+    "option_b": "six vertices and five faces",
+    "option_c": "six vertices and six faces",
+    "option_d": "five faces and five vertices",
+    "correct_option": "B"
+  },
+  {
+    "question_text": "41. The following table shows the number of visitors to a library in the first six days of a week:\nMonday: 86, Tuesday: 114, Wednesday: 141, Thursday: 95, Friday: 124, Saturday: 151\nOn which day, the number of visitors to the library was 29 more than its previous day?",
+    "option_a": "Wednesday",
+    "option_b": "Friday",
+    "option_c": "Saturday",
+    "option_d": "Tuesday",
+    "correct_option": "A"
+  },
+  {
+    "question_text": "42. The sum of next two numbers in the pattern 3, 10, 32, 99, _____, _____ is",
+    "option_a": "1121",
+    "option_b": "1209",
+    "option_c": "1211",
+    "option_d": "1119",
+    "correct_option": "C"
+  },
+  {
+    "question_text": "43. What is the sum of all the prime numbers between 12 and 49?",
+    "option_a": "300",
+    "option_b": "301",
+    "option_c": "302",
+    "option_d": "299",
+    "correct_option": "B"
+  },
+  {
+    "question_text": "44. If 101 × 2 + 10 × 12 - 0 × 10 - 2 × 99 = 104 + □, then what is the number at □?",
+    "option_a": "1327",
+    "option_b": "1329",
+    "option_c": "1336",
+    "option_d": "1326",
+    "correct_option": "D"
+  },
+  {
+    "question_text": "45. The sum of all the common factors of 36 and 48 (excluding 1) is",
+    "option_a": "27",
+    "option_b": "28",
+    "option_c": "29",
+    "option_d": "26",
+    "correct_option": "B"
+  },
+  {
+    "question_text": "46. Which of the following is least desirable in a primary school mathematics classroom?",
+    "option_a": "Building linkages with real-life situations involving mathematical ideas",
+    "option_b": "Solving algorithm-based questions from workbook",
+    "option_c": "Including open discussions on problem solving in the classroom",
+    "option_d": "Encouragement of intuitive concepts in the classroom",
+    "correct_option": "B"
+  },
+  {
+    "question_text": "47. Which of the following is/are appropriate in the context of social perspectives on assessment in mathematics?\nA. Bringing the experiences of children outside the school in assessment\nB. Making standardized tests\nC. Using folk algorithms from different cultures\nChoose the correct option.",
+    "option_a": "Only B",
+    "option_b": "A and B",
+    "option_c": "Only A",
+    "option_d": "A and C",
+    "correct_option": "D"
+  },
+  {
+    "question_text": "48. Which of the following is least appropriate about contextual problems in mathematics?",
+    "option_a": "They can help in developing the children's ability of mathematical modelling.",
+    "option_b": "Children tend to focus on getting a correct answer while solving them.",
+    "option_c": "They might be derived from recent experiences in the classroom like a field trip, a discussion in art, science, or social studies classrooms.",
+    "option_d": "They are connected closely to children's lives.",
+    "correct_option": "B"
+  },
+  {
+    "question_text": "49. The statements given below are marked as Assertion (A) and Reason (B):\nA: It is important to introduce data representation and analysis in the primary stage and to strengthen it in the upper primary stage.\nB: Data analysis exposes children at primary level to uncertainty and changeability in information as opposed to the fixed nature of mathematical facts they mostly study.\nChoose the correct option.",
+    "option_a": "A is false and B is true.",
+    "option_b": "A is true but B is not the correct reason of A.",
+    "option_c": "A is true and B is the correct reason of A.",
+    "option_d": "A is true and B is false.",
+    "correct_option": "C"
+  },
+  {
+    "question_text": "50. Which of the following is not an expected learning outcome for class III as per NCERT recommendations?",
+    "option_a": "Solve 1/2 + 1/3.",
+    "option_b": "Extend the sequence A, DE, HIJ, _____ .",
+    "option_c": "There are 12 balls in a box. How many balls will be there in 5 such boxes?",
+    "option_d": "Is 15 × 4 equal to 4 × 15?",
+    "correct_option": "A"
+  },
+  {
+    "question_text": "51. Which of the following mathematical statements is true?",
+    "option_a": "Mathematics is based only on observations and experiments.",
+    "option_b": "Zero is called the multiplicative identity for whole numbers.",
+    "option_c": "Commutative law holds true for the operation of 'division'.",
+    "option_d": "Zero is called an additive identity for whole numbers.",
+    "correct_option": "D"
+  },
+  {
+    "question_text": "52. In mathematics, the primary stage curriculum is focussed on _____",
+    "option_a": "nurturing curiosity",
+    "option_b": "written algorithms",
+    "option_c": "solving textbook questions",
+    "option_d": "rote learning",
+    "correct_option": "A"
+  },
+  {
+    "question_text": "53. A child writes five hundred three as 5003. It shows that",
+    "option_a": "the child does not know how to write numbers in words",
+    "option_b": "the child does not know the concept of place value",
+    "option_c": "the child needs to learn recognition of digits",
+    "option_d": "the child needs to learn counting",
+    "correct_option": "B"
+  },
+  {
+    "question_text": "54. According to Van Hiele's levels of development of geometrical thinking, which of the following represents level-2 (relationships)?",
+    "option_a": "A child identifies and classifies shapes based only on their size or orientation.",
+    "option_b": "A child can informally deduce general properties of a given geometrical shape and is able to see the linkages among these properties.",
+    "option_c": "A student can follow the deductive axiomatic systems of geometry.",
+    "option_d": "A child cannot classify various shapes that look similar.",
+    "correct_option": "B"
+  },
+  {
+    "question_text": "55. Which of the following is the most appropriate example of incorporation of local/cultural knowledge in mathematics teaching-learning?",
+    "option_a": "Including only traditional methods of calculations in textbooks",
+    "option_b": "Remedial teaching for learners from different cultures",
+    "option_c": "Including examples of different methods of calculation used by the people from various occupations and communities",
+    "option_d": "Colourful mathematics textbooks with pictures from various cultures",
+    "correct_option": "C"
+  },
+  {
+    "question_text": "56. One of the main guiding principles of the National Education Policy, 2020 is \"The highest priority is to achieve foundational literacy and numeracy at _____ by all the students\".",
+    "option_a": "grade 3",
+    "option_b": "grade 2",
+    "option_c": "grade 5",
+    "option_d": "grade 1",
+    "correct_option": "A"
+  },
+  {
+    "question_text": "57. A primary class mathematics teacher brings in two jars of different shapes, with water in one of them, to her classroom. She pours water completely from the taller, thin jar to the shorter, broad jar. She then asks the question, \"Which jar can hold more water?\"\nThis activity is most appropriate to teach",
+    "option_a": "formula for calculating volume",
+    "option_b": "volume and its conservation",
+    "option_c": "the concept of standard units of measurement of liquids",
+    "option_d": "how to calculate the area of two jars with different shapes",
+    "correct_option": "B"
+  },
+  {
+    "question_text": "58. A teacher writes the number 308 on the blackboard and asks the children to read the number loudly. A child says, \"It is thirty-eight.\" Which among the following is the most appropriate strategy to rectify the error committed by the child?",
+    "option_a": "Provide few practical examples to the child to understand the position of digits in a number.",
+    "option_b": "Teacher can read the number once and ask the child to repeat.",
+    "option_c": "Ask the child to start counting from 99 up to 308 in continuity.",
+    "option_d": "Ask another child to read the number loudly.",
+    "correct_option": "A"
+  },
+  {
+    "question_text": "59. A class II mathematics teacher gives the following word problem on addition to the students to solve:\n\"A bag contains 4 mangoes and 6 more mangoes are added to it. How many total mangoes are there in the bag?\"\nThis type of word problem belongs to which of the following structures of addition?",
+    "option_a": "Segregation",
+    "option_b": "Repeated addition",
+    "option_c": "Aggregation",
+    "option_d": "Augmentation",
+    "correct_option": "D"
+  },
+  {
+    "question_text": "60. Which of the following pre-number concepts are relevant for building the understanding of mathematical concepts at foundational stage?",
+    "option_a": "Place value and numeration",
+    "option_b": "Geometrical shapes",
+    "option_c": "Classification and ordering",
+    "option_d": "Basic operations",
+    "correct_option": "C"
+  }
+]

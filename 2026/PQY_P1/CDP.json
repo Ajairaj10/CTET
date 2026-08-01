@@ -1,0 +1,242 @@
+[
+  {
+    "question_text": "1. Rama was mean to her brother Tahir. Next day Tahir got sick. Rama concluded that she made her brother sick.\nAccording to Piaget, which stage of cognitive development is Rama in?",
+    "option_a": "Preoperational stage",
+    "option_b": "Concrete operational stage",
+    "option_c": "Formal operational stage",
+    "option_d": "Sensorimotor stage",
+    "correct_option": "A"
+  },
+  {
+    "question_text": "2. __________ is the process by which children become aware of their gender roles.",
+    "option_a": "Gender equality",
+    "option_b": "Gender relatedness",
+    "option_c": "Gender homogeneity",
+    "option_d": "Gender typing",
+    "correct_option": "D"
+  },
+  {
+    "question_text": "3. Which of the following scenarios is aptly describing the application of Lev Vygotsky's concept of 'scaffolding'?",
+    "option_a": "A teacher has strictly prohibited students to have any kind of collaborations and communication with their peers.",
+    "option_b": "A teacher has written answers on the blackboard and has asked the students to copy the answers passively in their notebooks.",
+    "option_c": "A teacher has made it mandatory for her students to solve problems on their own in a set time period.",
+    "option_d": "A teacher gave half-solved problems to her students who were finding it difficult to solve them otherwise.",
+    "correct_option": "D"
+  },
+  {
+    "question_text": "4. Progressive education is an educational philosophy that emphasizes on",
+    "option_a": "rote memorization and teacher-centred instruction",
+    "option_b": "standardized testing and strict curriculum guidelines",
+    "option_c": "competition and individual achievement",
+    "option_d": "student-centred learning and active participation",
+    "correct_option": "D"
+  },
+  {
+    "question_text": "5. Read the following statements:\nAssertion (A): Children progress from understanding consequences of act to determine whether they are good/bad to understanding that rules and laws are flexible and can be changed.\nReason (R): According to Kohlberg, children's moral development occurs in continuous manner and not a discontinuous one.\nChoose the correct option.",
+    "option_a": "Both A and R are true but R is not the correct explanation of A.",
+    "option_b": "A is true but R is false.",
+    "option_c": "Both A and R are false.",
+    "option_d": "Both A and R are true and R is the correct explanation of A.",
+    "correct_option": "B"
+  },
+  {
+    "question_text": "6. According to Lev Vygotsky, cognitive development is guided by",
+    "option_a": "processes of attention and perception",
+    "option_b": "assimilation and accommodation that change 'schemes'",
+    "option_c": "positive and negative reinforcement given by the environment",
+    "option_d": "language in the form of private speech",
+    "correct_option": "D"
+  },
+  {
+    "question_text": "7. Which of the following intelligence helps people to perceive, express, understand and regulate moods and feelings of others?",
+    "option_a": "Logical-mathematical",
+    "option_b": "Musical",
+    "option_c": "Naturalist",
+    "option_d": "Interpersonal",
+    "correct_option": "D"
+  },
+  {
+    "question_text": "8. A child's first experience as well as expectations of what it means to be a 'girl' or a 'boy' comes from",
+    "option_a": "relatives",
+    "option_b": "neighbourhood",
+    "option_c": "family",
+    "option_d": "media",
+    "correct_option": "C"
+  },
+  {
+    "question_text": "9. An essential characteristic of formative assessment is-",
+    "option_a": "tests and exams at the end of the year.",
+    "option_b": "clarification of assessment criteria to the learners.",
+    "option_c": "to focus on quantitative means to achieve objectivity.",
+    "option_d": "to assign relative ranks and positions to learners.",
+    "correct_option": "B"
+  },
+  {
+    "question_text": "10. Dysgraphia is a",
+    "option_a": "personality disorder",
+    "option_b": "physical disability",
+    "option_c": "learning disability",
+    "option_d": "neurodevelopmental disorder",
+    "correct_option": "C"
+  },
+  {
+    "question_text": "11. A teacher should cater to __________ needs of gifted children in the classrooms.",
+    "option_a": "cognitive and emotional",
+    "option_b": "cognitive and social",
+    "option_c": "cognitive, social and emotional",
+    "option_d": "cognitive",
+    "correct_option": "C"
+  },
+  {
+    "question_text": "12. Which of the following are examples of pedagogical approaches to teach students with learning disabilities?\n(i) Use of multisensory strategies\n(ii) Standardized learning goals\n(iii) Flexible and sequential instructions\n(iv) Breaking down tasks into smaller parts\nChoose the correct option.",
+    "option_a": "(iii) and (iv)",
+    "option_b": "(i), (iii) and (iv)",
+    "option_c": "(i), (ii), (iii) and (iv)",
+    "option_d": "(i) and (ii)",
+    "correct_option": "B"
+  },
+  {
+    "question_text": "13. Which of the following statements about Autism Spectrum Disorder is correct?",
+    "option_a": "Sensory integration and regulation help children with Autism Spectrum Disorder.",
+    "option_b": "It is primarily the ability to hear that is affected in Autism Spectrum Disorder.",
+    "option_c": "Children with Autism Spectrum Disorder exhibit a preference for new stimuli every day.",
+    "option_d": "Children with Autism Spectrum Disorder have excellent communication skills but very poor memory.",
+    "correct_option": "A"
+  },
+  {
+    "question_text": "14. While teaching in inclusive setups, it is important that teachers-",
+    "option_a": "continuously examine their own implicit and preconceived bias.",
+    "option_b": "understand special children as needy and dependent on others.",
+    "option_c": "follow same curriculum and uniform pedagogy of all learners.",
+    "option_d": "see diversity as an obstacle to effective teaching.",
+    "correct_option": "A"
+  },
+  {
+    "question_text": "15. Read the following statements:\nAssertion (A): Teachers should include a variety of children's literature to create print-rich environment in the classroom.\nReason (R): Classrooms rich in literacy materials and literacy experiences are central to effective learning.\nChoose the correct option.",
+    "option_a": "Both A and R are true but R is not the correct explanation of A.",
+    "option_b": "A is true but R is false.",
+    "option_c": "Both A and R are false.",
+    "option_d": "Both A and R are true and R is the correct explanation of A.",
+    "correct_option": "D"
+  },
+  {
+    "question_text": "16. In order to facilitate students' learning in a progressive classroom, a teacher should emphasize on the practice of",
+    "option_a": "passive replication",
+    "option_b": "reflective thinking",
+    "option_c": "obedient listening",
+    "option_d": "behaviour conditioning",
+    "correct_option": "B"
+  },
+  {
+    "question_text": "17. Seeing Raman, a 4th grade student stuck on a question, his teacher asked him to try the solution while speaking what is going on in his mind. Such verbalization is likely to be-",
+    "option_a": "helpful because language facilitates thought process.",
+    "option_b": "supportive only for students with learning disabilities because they have difficulty in auditory processing.",
+    "option_c": "unproductive because language and thought are not related.",
+    "option_d": "futile because language hinders thought process.",
+    "correct_option": "A"
+  },
+  {
+    "question_text": "18. A teacher who believes in constructivist pedagogy would-",
+    "option_a": "avoid judgements of students solely on the basis of socio-cultural backgrounds.",
+    "option_b": "promote high levels of verbal instructions as primary pedagogy.",
+    "option_c": "promote 'ability grouping' of students.",
+    "option_d": "avoid connecting content to real world.",
+    "correct_option": "A"
+  },
+  {
+    "question_text": "19. Active engagement of learners implies that the students-",
+    "option_a": "rote memorize facts and information.",
+    "option_b": "actively value marks and competition.",
+    "option_c": "consider textbook as the sole source of knowledge.",
+    "option_d": "inquire, explore and question.",
+    "correct_option": "D"
+  },
+  {
+    "question_text": "20. Radha reasons, \"Clothes dry faster in the sun than in the shade, so the sun is helping them to dry\". She is showing an understanding of",
+    "option_a": "reversible thinking.",
+    "option_b": "decentration.",
+    "option_c": "animism.",
+    "option_d": "cause and effect.",
+    "correct_option": "D"
+  },
+  {
+    "question_text": "21. Which of the following is an example of intrinsic motivation?",
+    "option_a": "Playing a game for the prize money",
+    "option_b": "Playing a sport for personal enjoyment",
+    "option_c": "Completing the homework to avoid being scolded by parents",
+    "option_d": "Studying for a test to get good grade",
+    "correct_option": "B"
+  },
+  {
+    "question_text": "22. Read the following statements:\nAssertion (A): Teachers who believe in constructivist pedagogy should provide a lot of materials to the children.\nReason (R): Young children depend solely on verbal instructions and lectures for meaningful learning.\nChoose the correct option.",
+    "option_a": "Both A and R are true but R is not the correct explanation of A.",
+    "option_b": "A is true but R is false.",
+    "option_c": "Both A and R are false.",
+    "option_d": "Both A and R are true and R is the correct explanation of A.",
+    "correct_option": "B"
+  },
+  {
+    "question_text": "23. Avoiding the appearance of low ability in front of peers and teachers is an example of",
+    "option_a": "performance approach goals",
+    "option_b": "task-involved goals",
+    "option_c": "performance avoidance goals",
+    "option_d": "mastery goals",
+    "correct_option": "C"
+  },
+  {
+    "question_text": "24. Which of the following is an effective way to promote critical thinking in the classroom?",
+    "option_a": "Discouraging students from asking questions.",
+    "option_b": "Encouraging students to think independently and questioning assumptions.",
+    "option_c": "Providing students with a set of predetermined answers to choose from.",
+    "option_d": "Encouraging rote memorization of facts.",
+    "correct_option": "B"
+  },
+  {
+    "question_text": "25. Read the following statements:\nAssertion (A): Some children have characteristics that resemble their parents while others are markedly different from their parents.\nReason (R): Working out how much of any characteristic is due to nature or genes and how much is due to nurture or environment is a complex issue.\nChoose the correct option.",
+    "option_a": "Both A and R are true but R is not the correct explanation of A.",
+    "option_b": "A is true but R is false.",
+    "option_c": "Both A and R are false.",
+    "option_d": "Both A and R are true and R is the correct explanation of A.",
+    "correct_option": "D"
+  },
+  {
+    "question_text": "26. Which of the following statements about development is correct?",
+    "option_a": "Development is a simple and unitary process.",
+    "option_b": "Development can always be measured precisely.",
+    "option_c": "Development is multidimensional and multidirectional.",
+    "option_d": "Development in children can be predicted very accurately.",
+    "correct_option": "C"
+  },
+  {
+    "question_text": "27. Read the following statements:\nAssertion (A): The ability to comprehend and speak depends on the physical development of the mouth and brain.\nReason (R): Emotional development is related to physical growth.\nChoose the correct option.",
+    "option_a": "Both A and R are true but R is not the correct explanation of A.",
+    "option_b": "A is true but R is false.",
+    "option_c": "Both A and R are false.",
+    "option_d": "Both A and R are true and R is the correct explanation of A.",
+    "correct_option": "A"
+  },
+  {
+    "question_text": "28. Most children can speak five-six coherent sentences at",
+    "option_a": "three years",
+    "option_b": "five years",
+    "option_c": "seven years",
+    "option_d": "one year",
+    "correct_option": "B"
+  },
+  {
+    "question_text": "29. As per Lev Vygotsky, as children grow, their language develops from",
+    "option_a": "private speech to egocentric speech",
+    "option_b": "silent speech to thinking aloud",
+    "option_c": "think out loud to inner speech",
+    "option_d": "inner speech to external speech",
+    "correct_option": "C"
+  },
+  {
+    "question_text": "30. Piaget described cognitive development as occurring",
+    "option_a": "at three progressive levels",
+    "option_b": "as resolution of conflict at eight stages",
+    "option_c": "in a continuous manner from birth through adulthood",
+    "option_d": "in four qualitatively different stages",
+    "correct_option": "D"
+  }
+]

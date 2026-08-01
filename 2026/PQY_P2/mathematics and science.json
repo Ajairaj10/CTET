@@ -1,0 +1,482 @@
+[
+  {
+    "question_text": "31. If\n  2 A\n× A\n___\nB 2 A\n\nwhere A and B are digits, then",
+    "option_a": "A = 1, B = 6",
+    "option_b": "A = 1, B = 5",
+    "option_c": "A = 5, B = 1",
+    "option_d": "A = 6, B = 1",
+    "correct_option": "D"
+  },
+  {
+    "question_text": "32. If a - b = \\frac{11}{5} and ab = \\frac{3}{4}, then one of the values of (a + b) is :",
+    "option_a": "2\\frac{4}{5}",
+    "option_b": "3\\frac{1}{5}",
+    "option_c": "3\\frac{2}{5}",
+    "option_d": "2\\frac{3}{5}",
+    "correct_option": "A"
+  },
+  {
+    "question_text": "33. If \\frac{7x - 1}{4} - \\frac{1}{3}\\left(2x - \\frac{1 - x}{2}\\right) = \\frac{10}{3}, then what is the value of \\frac{11x + 21}{2}?",
+    "option_a": "29",
+    "option_b": "31",
+    "option_c": "32",
+    "option_d": "27",
+    "correct_option": "B"
+  },
+  {
+    "question_text": "34. One of the factors of $5(2x - 4y)^2 - 6(4x^2 - 16y^2 - 16xy) - 6$ is:",
+    "option_a": "4x - 8y - 3",
+    "option_b": "3x - 6y - 1",
+    "option_c": "3x - 6y + 1",
+    "option_d": "2x - 4y - 3",
+    "correct_option": "D"
+  },
+  {
+    "question_text": "35. A shopkeeper buys a fan for ₹ 1,500 and marks it for ₹ 2,500. He sells it after giving a discount of 20% on its marked price and an additional discount of ₹ 250 on cash payment. If a customer buys it on cash payment, then what is the profit (in ₹) earned by the shopkeeper?",
+    "option_a": "₹ 225",
+    "option_b": "₹ 250",
+    "option_c": "₹ 300",
+    "option_d": "₹ 200",
+    "correct_option": "D"
+  },
+  {
+    "question_text": "36. When x is added to each of the numbers 4, 10, 12 and 24, then the numbers so obtained in this order are in proportion. What is the value of $(3x - 1)?$",
+    "option_a": "13",
+    "option_b": "16",
+    "option_c": "19",
+    "option_d": "10",
+    "correct_option": "A"
+  },
+  {
+    "question_text": "37. If $(3x - 30^{\\circ})$ and $(2x - 20^{\\circ})$ are two supplementary angles, then the value of $(2x - 4^{\\circ})$ is:",
+    "option_a": "$76^{\\circ}$",
+    "option_b": "$80^{\\circ}$",
+    "option_c": "$84^{\\circ}$",
+    "option_d": "$72^{\\circ}$",
+    "correct_option": "B"
+  },
+  {
+    "question_text": "38. Angles P and Q of a triangle PQR are respectively $30^{\\circ}$ and $50^{\\circ}$. If the bisectors of angles P and Q meet at a point O, then the value of $(2\\angle POQ - 10^{\\circ})$ is:",
+    "option_a": "$190^{\\circ}$",
+    "option_b": "$270^{\\circ}$",
+    "option_c": "$250^{\\circ}$",
+    "option_d": "$150^{\\circ}$",
+    "correct_option": "B"
+  },
+  {
+    "question_text": "39. Which of the following measurements (in cm) cannot form the sides of a right triangle?",
+    "option_a": "12, 16, 20",
+    "option_b": "4\\sqrt{5}, 6, 7\\sqrt{5}",
+    "option_c": "8, 16, 12",
+    "option_d": "2\\sqrt{5}, 6\\sqrt{5}, 6",
+    "correct_option": "C"
+  },
+  {
+    "question_text": "40. Which of the following letters does not have rotational symmetry?",
+    "option_a": "O",
+    "option_b": "E",
+    "option_c": "N",
+    "option_d": "H",
+    "correct_option": "B"
+  },
+  {
+    "question_text": "41. Diagonals PR and QS of a parallelogram PQRS intersect at point O. If OP = $(x - y)$ cm, OQ = 20 cm, OR = 16 cm and OS = $(y + 7)$ cm, then the value of $(7x - y)$ (in cm) is:",
+    "option_a": "8",
+    "option_b": "9",
+    "option_c": "13",
+    "option_d": "6",
+    "correct_option": "A"
+  },
+  {
+    "question_text": "42. The perimeter and area of a trapezium are respectively 52 cm and $128~\\text{cm}^2$. If the sum of its non-parallel sides is 20 cm, then the distance between its parallel sides is:",
+    "option_a": "8 cm",
+    "option_b": "10 cm",
+    "option_c": "12 cm",
+    "option_d": "6 cm",
+    "correct_option": "A"
+  },
+  {
+    "question_text": "43. The area of a rectangular field is $48~\\text{m}^2$ and one of its sides is 6 m. How long will a person take to cross this field diagonally at a speed of 20 m per minute?",
+    "option_a": "20 seconds",
+    "option_b": "30 seconds",
+    "option_c": "40 seconds",
+    "option_d": "15 seconds",
+    "correct_option": "B"
+  },
+  {
+    "question_text": "44. Three metallic solid cubes of sides 8 cm, 6 cm and 10 cm are melted to form a single solid cube. The side of the new cube so formed is:",
+    "option_a": "20 cm",
+    "option_b": "18 cm",
+    "option_c": "12 cm",
+    "option_d": "24 cm",
+    "correct_option": "C"
+  },
+  {
+    "question_text": "45. The mean of the median and mode of the observations 30, 61, 55, 56, 60, 20, 26, 45, 28 and 56 is",
+    "option_a": "53",
+    "option_b": "55",
+    "option_c": "56",
+    "option_d": "52",
+    "correct_option": "A"
+  },
+  {
+    "question_text": "46. A card is drawn from a well-shuffled deck of playing cards. What is the probability that the card drawn is a 10 or a red king?",
+    "option_a": "\\frac{1}{13}",
+    "option_b": "\\frac{3}{26}",
+    "option_c": "\\frac{2}{13}",
+    "option_d": "\\frac{1}{26}",
+    "correct_option": "B"
+  },
+  {
+    "question_text": "47. The greatest number that divides 87 and 123 leaving respectively 7 and 3 as remainders is:",
+    "option_a": "36",
+    "option_b": "40",
+    "option_c": "80",
+    "option_d": "20",
+    "correct_option": "B"
+  },
+  {
+    "question_text": "48. The value of $0.\\bar{4} + 0.\\bar{6}$ is :",
+    "option_a": "$1\\frac{1}{9}$[cite: 17]",
+    "option_b": "$1\\frac{2}{9}$[cite: 17]",
+    "option_c": "$1\\frac{1}{10}$[cite: 17]",
+    "option_d": "1[cite: 17]",
+    "correct_option": "B"
+  },
+  {
+    "question_text": "49. The difference between the largest and smallest fractions among $\\frac{4}{7}, \\frac{9}{16}, 1\\frac{2}{7}$ and $\\frac{3}{5}$ is :",
+    "option_a": "\\frac{81}{112}[cite: 17]",
+    "option_b": "\\frac{25}{28}[cite: 17]",
+    "option_c": "\\frac{31}{56}[cite: 17]",
+    "option_d": "\\frac{2}{7}[cite: 17]",
+    "correct_option": "A"
+  },
+  {
+    "question_text": "50. The digit at units place of the square of a number is 2 more than the digit at units place of that number. Which of the following cannot be the digit at units place of the square of that number?",
+    "option_a": "5",
+    "option_b": "6",
+    "option_c": "9",
+    "option_d": "4",
+    "correct_option": "C"
+  },
+  {
+    "question_text": "51. Which of the following should not be a part of assessment of students in mathematics?",
+    "option_a": "Reason out mathematical facts",
+    "option_b": "Recalling the definitions of mathematical terms",
+    "option_c": "Use abstractions to perceive mathematical relationships",
+    "option_d": "Apply mathematical concepts learnt to solve problems related to daily life situations",
+    "correct_option": "B"
+  },
+  {
+    "question_text": "52. _____ was the first Indian mathematician who explained that the square root of a negative number does not exist.",
+    "option_a": "Baudhayana",
+    "option_b": "Aryabhatta",
+    "option_c": "Ramanujan",
+    "option_d": "Mahavira",
+    "correct_option": "D"
+  },
+  {
+    "question_text": "53. When asked to arrange the decimal numbers 1.5, 0.23, 1.6, 0.034, 1.13 in ascending order, one of the students arranged them as 0.23, 0.034, 1.5, 1.6, 1.13. Which among the following is most appropriate for the response of the student?",
+    "option_a": "The student has made a careless mistake by arranging the decimal numbers in descending order",
+    "option_b": "Teacher should ask the student to recall the rules of ordering decimal numbers and then arrange them",
+    "option_c": "The student has developed a misconception of considering that decimal number as bigger number which has more digits in decimal part",
+    "option_d": "The student has arranged the decimal numbers in the correct order",
+    "correct_option": "C"
+  },
+  {
+    "question_text": "54. A teacher asked the children to cut out six squares of 'one' unit each and then asked, \"How many different shapes can you make using these squares? Which shape formed would have the maximum perimeter?\" The least appropriate objective of this activity is",
+    "option_a": "to provide opportunities for developing creativity and analytical skills",
+    "option_b": "to assess children's learning about area and perimeter",
+    "option_c": "to apply the formulae learnt in a new context",
+    "option_d": "to engage children in group work",
+    "correct_option": "C"
+  },
+  {
+    "question_text": "55. A child solved an equation $x + 7 = 15$ as\n$x + 7 - 7 = 15$\n$x = 15$\nThe best remedial strategy for this child is",
+    "option_a": "explain problems in simple language to the child",
+    "option_b": "explain the concept of equality using alternate methods",
+    "option_c": "ask the child to solve the same equation on the blackboard",
+    "option_d": "give a lot of problems on solving equations to the child",
+    "correct_option": "B"
+  },
+  {
+    "question_text": "56. According to the National Curriculum Framework, 2005, what are the important skills to be developed among learners while teaching arithmetic and algebra?\nA. Looking for patterns in the relationships\nB. Memorizing algebraic identities\nC. Seeing relationship between numbers\nD. Rigorous practice of writing algebraic notation\nChoose the correct option.",
+    "option_a": "A and C",
+    "option_b": "B and C",
+    "option_c": "B and D",
+    "option_d": "A, B and D",
+    "correct_option": "A"
+  },
+  {
+    "question_text": "57. After teaching 'shapes' in Class VIII, a teacher planned a trip to historical places. Which of the following is the most appropriate reason for this?",
+    "option_a": "Teacher has completed most of the syllabus, so she planned the field trip just to have fun",
+    "option_b": "Shapes are an integral part of any architecture and such trips encourage connection across the disciplines",
+    "option_c": "It would be a break from the routine teaching of mathematics class and an opportunity to improve students' communication skill",
+    "option_d": "Field trips are the recommendations of CBSE",
+    "correct_option": "B"
+  },
+  {
+    "question_text": "58. Uma, a mathematics teacher, asked a student, \"How many edges are there in a cylinder?\" The student answered, \"Two\". Uma should",
+    "option_a": "praise the student for correct answer",
+    "option_b": "draw picture of the cylinder on the blackboard and show the edges",
+    "option_c": "give cylinder in the hands of that student and ask the question again",
+    "option_d": "give punishment to the student for wrong answer",
+    "correct_option": "C"
+  },
+  {
+    "question_text": "59. A teacher gives an image drawn on a square grid to children and asks them to draw its enlarged and reduced size images. Which of the following would not be an objective of doing this exercise in a mathematics classroom?",
+    "option_a": "To provide practice for application of fractions",
+    "option_b": "To provide scope for integrating arithmetic and geometry",
+    "option_c": "To introduce the concept of congruency and similarity",
+    "option_d": "To apply the concept of ratio and proportion in different situations",
+    "correct_option": "C"
+  },
+  {
+    "question_text": "60. Closed-ended questions in mathematics do not promote:\nA. Divergent thinking\nB. Convergent thinking\nC. Creativity\nD. Higher-order thinking skills\nChoose the correct option.",
+    "option_a": "A, B and C",
+    "option_b": "B, C and D",
+    "option_c": "A, C and D",
+    "option_d": "A and B",
+    "correct_option": "C"
+  },
+  {
+    "question_text": "61. You are provided with China rose indicator.\nIn the first test tube, you add two drops of solution A and observe no change in colour of the solution.\nIn the second test tube, you add two drops of solution B and get green colour.\nIn the third test tube, you add two drops of solution C and get magenta (dark pink) colour.\nIdentify the nature of solutions A, B and C.",
+    "option_a": "A-Acidic; B-Basic; C-Neutral",
+    "option_b": "A-Neutral; B-Basic; C-Acidic",
+    "option_c": "A-Neutral; B-Acidic; C-Basic",
+    "option_d": "A-Basic; B-Neutral; C-Acidic",
+    "correct_option": "B"
+  },
+  {
+    "question_text": "62. Read the following statements:\nStatement 1: An object can have non-zero mechanical energy but zero momentum.\nStatement 2: An object can do zero work even if the force acting on the object is non-zero.\nChoose the correct option.",
+    "option_a": "Statement 1 is false but Statement 2 is true",
+    "option_b": "Both Statements 1 and 2 are true",
+    "option_c": "Both Statements 1 and 2 are false",
+    "option_d": "Statement 1 is true but Statement 2 is false",
+    "correct_option": "B"
+  },
+  {
+    "question_text": "63. Two identical metal containers are taken. Container A is painted black and the container B is painted white on the outside surface.\nStep 1: Both the containers are kept in direct sunlight.\nStep 2: After few hours, both the containers are kept in a shady area.\nWhich of the following will be observed?",
+    "option_a": "Container B will gain heat faster than container A whereas container A will lose heat faster than container B",
+    "option_b": "Container A will gain as well as lose heat faster than container B",
+    "option_c": "Container B will gain as well as lose heat faster than container A",
+    "option_d": "Container A will gain heat faster than container B whereas container B will lose heat faster than container A",
+    "correct_option": "B"
+  },
+  {
+    "question_text": "64. Why is it difficult to cut with a blunt knife as compared to a sharp one?",
+    "option_a": "Force decreases",
+    "option_b": "Area of contact increases",
+    "option_c": "Area of contact decreases",
+    "option_d": "Pressure increases",
+    "correct_option": "B"
+  },
+  {
+    "question_text": "65. Which of the following can be used to increase the strength of an electromagnet?",
+    "option_a": "Decreasing the number of turns of coil",
+    "option_b": "Using a plastic core",
+    "option_c": "Using an aluminium core",
+    "option_d": "Increasing the flow of current",
+    "correct_option": "D"
+  },
+  {
+    "question_text": "66. Which of the following is a set of organs that do not contribute to the digestive process?",
+    "option_a": "Oesophagus, large intestine, rectum",
+    "option_b": "Small intestine, large intestine, rectum",
+    "option_c": "Large intestine, small intestine, oesophagus",
+    "option_d": "Buccal cavity, oesophagus, rectum",
+    "correct_option": "A"
+  },
+  {
+    "question_text": "67. Read the following statements:\nA: Earthworm breathes through its skin and does not have lungs.\nB: Tadpole breathes through gills and does not have lungs.\nC: Snake breathes through its skin and does not have lungs.\nChoose the correct option.",
+    "option_a": "B and C are true",
+    "option_b": "A and C are true",
+    "option_c": "Only A is true",
+    "option_d": "A and B are true",
+    "correct_option": "D"
+  },
+  {
+    "question_text": "68. Read the following, and identify X, Y, Z and W respectively:\nX: The part which produces pollen grains\nY: The part where the female gamete is formed\nZ: The female reproductive part where pollen grains germinate\nW: The part of the flower which attracts insects\nChoose the correct option.",
+    "option_a": "Anther, pistil, ovary, sepal",
+    "option_b": "Anther, ovary, stigma, petals",
+    "option_c": "Stamen, ovary, ovule, petals",
+    "option_d": "Pistil, stigma, ovary, sepal",
+    "correct_option": "B"
+  },
+  {
+    "question_text": "69. Read the following statements:\nAssertion (A): Sewage treatment is essential to prevent diseases and deaths.\nReason (R): Sewage is a solid waste which causes water pollution and soil pollution.\nChoose the correct option.",
+    "option_a": "Both A and R are true but R is not the correct reason for A",
+    "option_b": "A is true but R is false",
+    "option_c": "A is false but R is true",
+    "option_d": "Both A and R are true and R is the correct reason for A",
+    "correct_option": "A"
+  },
+  {
+    "question_text": "70. Read the following statements:\nA: Spiracles and stomata are pores through which insects and leaves exchange gases respectively.\nB: Spiracles in an insect are more in number as compared to stomata in a leaf.\nC: Both stomata and spiracles are present on the lower surface of leaves and insect's body respectively.\nChoose the correct option.",
+    "option_a": "B and C are true",
+    "option_b": "A and C are true",
+    "option_c": "Only A is true",
+    "option_d": "A and B are true",
+    "correct_option": "C"
+  },
+  {
+    "question_text": "71. Fill in the blanks with the correct answer:\nA pushes the blood into pulmonary artery. B take deoxygenated blood from the heart to the lungs. C return oxygenated blood from the lungs to the heart. From the left atrium, blood flows to the D. E receives blood from different parts of the body.",
+    "option_a": "A-Left ventricle; B-Pulmonary arteries; C-Pulmonary veins; D-right auricle; E-Right ventricle",
+    "option_b": "A-Right ventricle; B-Pulmonary arteries; C-Pulmonary veins; D-left ventricle; E-Right auricle",
+    "option_c": "A-Right ventricle; B-Pulmonary veins; C-Pulmonary arteries; D-left ventricle; E-Right auricle",
+    "option_d": "A-Left ventricle; B-Pulmonary veins; C-Pulmonary arteries; D-right auricle; E-Right ventricle",
+    "correct_option": "B"
+  },
+  {
+    "question_text": "72. Read the following statements:\nAssertion (A): Hypotheses become theories which in turn become laws.\nReason (R): Scientific laws such as law of gravitation are absolute.\nChoose the correct option.",
+    "option_a": "Both A and R are true but R is not the correct reason for A",
+    "option_b": "A is true but R is false",
+    "option_c": "Both A and R are false",
+    "option_d": "Both A and R are true and R is the correct reason for A",
+    "correct_option": "C"
+  },
+  {
+    "question_text": "73. Sheena writes the following statements in her notebook:\nA1: Cactus is a desert plant.\nA2: A desert plant has very small-sized leaves.\nA3: Small-sized leaves help in reducing loss of water.\nWhich of the following is true about A1, A2 and A3 respectively?",
+    "option_a": "Inference, Inference, Inference",
+    "option_b": "Observation, Hypothesis, Inference",
+    "option_c": "Observation, Observation, Inference",
+    "option_d": "Inference, Observation, Hypothesis",
+    "correct_option": "C"
+  },
+  {
+    "question_text": "74. Which of the following cannot be regarded as a 'testable question'?",
+    "option_a": "How does flu effect human immune system?",
+    "option_b": "When will fossil fuels run out?",
+    "option_c": "What does an earthworm eat?",
+    "option_d": "What is the effect of cigarette smoke on lungs?",
+    "correct_option": "B"
+  },
+  {
+    "question_text": "75. Read the excerpt given below:\nA teacher arranged a fun trip to Qutub Minar for her learners. The learners saw the iron pillar in the Qutub complex. The teacher asked the learners to note down the details displayed about the pillar that is 1600 years old and rust-resistant. She also asked them to write those iron items in their house, which are being used regularly and are rusted and think of causes of rusting and ways to prevent rusting.\nWhich of the following process skills are being developed through the above-mentioned activity?",
+    "option_a": "Classification, observation, measurement",
+    "option_b": "Inference, classification, observation",
+    "option_c": "Classification, observation, hypothesis",
+    "option_d": "Measurement, classification, inference",
+    "correct_option": "B"
+  },
+  {
+    "question_text": "76. Which of the following does not satisfy 'process validity' of science curriculum as recommended by the National Curriculum Framework, 2005?",
+    "option_a": "Students discussing the possible outcomes of connecting a piece of rubber, hairpin and lead to two open ends of an electric circuit",
+    "option_b": "Students involved in developing hypothesis for germination of seeds kept in a dry cotton cloth and moist cotton",
+    "option_c": "Students involved in making a list of elements given in the periodic table",
+    "option_d": "Students investigating the acidity and basicity of different household items",
+    "correct_option": "C"
+  },
+  {
+    "question_text": "77. The science textbooks often include interesting anecdotes from the past. One such story is that of accidental discovery of silk in China and the role of travellers and traders in introducing silk to the rest of the world through the 'Silk Route'.\nWhat objectives of science teaching-learning are being fulfilled by including the above in the textbook?\nA. To develop an understanding of nature of science\nB. To develop a historical perspective\nC. To develop an appreciation of how science is socially and culturally embedded\nD. To reduce the burden of science content by including fun stories\nChoose the correct option.",
+    "option_a": "B, C and D",
+    "option_b": "A, B and C",
+    "option_c": "A, B and D",
+    "option_d": "A, C and D",
+    "correct_option": "B"
+  },
+  {
+    "question_text": "78. Which of the following tasks would not contribute to developing scientific temper among students?",
+    "option_a": "Emphasizing the historical aspects of the development of scientific concepts",
+    "option_b": "Reading out the tenets of nature of science",
+    "option_c": "Encouraging the students to ask questions",
+    "option_d": "Providing hands-on experiences to students",
+    "correct_option": "B"
+  },
+  {
+    "question_text": "79. Which of the following is the most appropriate strategy to introduce physical properties of metals and non-metals to Grade VII learners as per the inquiry-based approach?",
+    "option_a": "Initiate a discussion on students' everyday experiences of using metallic and non-metallic substances",
+    "option_b": "Define the terms 'sonorous', 'boiling point' and 'melting point'",
+    "option_c": "Give a set of materials to students and ask them to deduce the properties of metals and non-metals",
+    "option_d": "List the differences between the physical properties of metals and non-metals on the blackboard",
+    "correct_option": "C"
+  },
+  {
+    "question_text": "80. Read the following statements:\nS1: Systematic experimentation needs to be introduced in upper primary stage to verify theoretical principles.\nS2: Activities and experimental evidence play an important role in understanding nature of science.\nS3: Most concepts should be arrived at by an inductive approach at upper primary level.\nChoose the correct option.",
+    "option_a": "Both S1 and S3 are true and S3 is the correct reason for S1",
+    "option_b": "Both S2 and S3 are true but S1 is false",
+    "option_c": "Both S1 and S3 are true but S2 is false",
+    "option_d": "Both S1 and S2 are true and S2 is the correct reason for S1",
+    "correct_option": "B"
+  },
+  {
+    "question_text": "81. Before beginning to formally teach a chapter on 'force' in Class VI, a teacher holds a discussion in which she asks children to imagine what would they do if they wish to keep a ball rolling on the ground for very long distances. How can she most suitably use the children's responses?\nA. To evaluate students\nB. To assess students' preconceptions\nC. To determine the pedagogical strategy to be adopted to teach the concept\nD. To enable students to define force\nChoose the correct option.",
+    "option_a": "B and C",
+    "option_b": "C and D",
+    "option_c": "A and C",
+    "option_d": "A and B",
+    "correct_option": "A"
+  },
+  {
+    "question_text": "82. Fill in the blanks with the correct answer:\nAt the onset of puberty, the size of ovaries in females A and produce B. C is produced by testes. In males, D is produced by testes. The production of these hormones is controlled by E. (Note: matching options based on standard textbook phrasing)",
+    "option_a": "A-enlarges; B-thyroxine; C-testosterone; D-thyroid gland",
+    "option_b": "A-reduces; B-estrogen; C-testosterone; D-pituitary gland",
+    "option_c": "A-enlarges; B-estrogen; C-testosterone; D-pituitary gland",
+    "option_d": "A-reduces; B-estrogen; C-sex hormone; D-adrenal gland",
+    "correct_option": "C"
+  },
+  {
+    "question_text": "83. A circuit comprising three identical bulbs and a switch is connected in different arrangements as given below. In which arrangement will the bulbs glow the brightest?",
+    "option_a": "Arrangement B-All bulbs in parallel",
+    "option_b": "Arrangement C-Two bulbs in parallel connected in series with the third bulb",
+    "option_c": "Arrangement D-Two bulbs in series connected in parallel with the third bulb",
+    "option_d": "Arrangement A-All bulbs in series",
+    "correct_option": "A"
+  },
+  {
+    "question_text": "84. Read the following statements:\nAssertion (A): Anodizing is a method to prevent metal from corrosion.\nReason (R): Anodizing is a process of coating iron with a layer of zinc.\nChoose the correct option.",
+    "option_a": "Both A and R are true but R is not the correct reason for A",
+    "option_b": "A is true but R is false",
+    "option_c": "Both A and R are false",
+    "option_d": "Both A and R are true and R is the correct reason for A",
+    "correct_option": "B"
+  },
+  {
+    "question_text": "85. Why do silver articles turn black when kept in the open for a few days?",
+    "option_a": "Due to reaction with hydrogen sulphide present in air",
+    "option_b": "Due to reaction with nitrogen oxides present in air",
+    "option_c": "Due to reaction with carbon monoxide present in air",
+    "option_d": "Due to reaction with oxygen in air",
+    "correct_option": "A"
+  },
+  {
+    "question_text": "86. Identify A, B, C and D in the following table:\nName of the salt: Ammonium chloride | Acid: HCl | Base: A\nName of the salt: Sodium nitrate | Acid: HNO3 | Base: B\nName of the salt: Sodium chloride | Acid: C | Base: D\nChoose the correct option.",
+    "option_a": "A-NH4; B-NaOH; C-HCl; D-NaOH",
+    "option_b": "A-NH3; B-NaOH; C-HCl; D-NaOH",
+    "option_c": "A-NH4OH; B-NaO; C-HCl; D-NaHCO3",
+    "option_d": "A-NH4OH; B-Na(OH)2; C-HClO2; D-NaH",
+    "correct_option": "B"
+  },
+  {
+    "question_text": "87. Read the following statements:\nStep 1: A few spoons of sugar are dissolved in water to prepare a concentrated sugar syrup.\nStep 2: The sugar syrup is heated on low flame till it caramelizes.\nChoose the correct option.",
+    "option_a": "Step 1 is a chemical change and Step 2 is a physical change",
+    "option_b": "Both Step 1 and Step 2 are physical changes",
+    "option_c": "Both Step 1 and Step 2 are chemical changes",
+    "option_d": "Step 1 is a physical change and Step 2 is a chemical change",
+    "correct_option": "D"
+  },
+  {
+    "question_text": "88. The ion of an element has two positive charges. The mass number of the atom is 27 and the number of neutrons is 14. What is the number of electrons in the ion?",
+    "option_a": "10",
+    "option_b": "11",
+    "option_c": "15",
+    "option_d": "13",
+    "correct_option": "A"
+  },
+  {
+    "question_text": "89. A ray of light travels from air into three media A, B and C with different optical densities. Refer to the table given below and identify X, Y, Z and W:\nAir to medium A -> Change in speed of light: X, Change in frequency: Y, Change in wavelength: Decreases\nAir to medium B -> Change in speed: Increases, Change in frequency: No change, Change in wavelength: Z\nAir to medium C -> Change in speed: Remains same, Change in frequency: W, Change in wavelength: No change\nChoose the correct option.",
+    "option_a": "X-Increases; Y-Increases; Z-Increases; W-Increases",
+    "option_b": "X-Decreases; Y-Remains unchanged; Z-Increases; W-Remains unchanged",
+    "option_c": "X-Decreases; Y-Decreases; Z-Increases; W-Remains unchanged",
+    "option_d": "X-Increases; Y-Decreases; Z-Decreases; W-Increases",
+    "correct_option": "C"
+  },
+  {
+    "question_text": "90. Read the following statements:\nSituation A: Growth and branching of roots in the A-horizon and B-horizon is advantageous for absorption of water and minerals.\nSituation B: C-horizon is rich in humus which makes soil soft and porous.\nChoose the correct option.",
+    "option_a": "Only Situation B is true",
+    "option_b": "Both Situations A and B are true",
+    "option_c": "Both Situations A and B are false",
+    "option_d": "Only Situation A is true",
+    "correct_option": "D"
+  }
+]

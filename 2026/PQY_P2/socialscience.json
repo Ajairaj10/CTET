@@ -1,0 +1,482 @@
+[
+  {
+    "question_text": "31. In about how many days does the moon move around the earth?",
+    "option_a": "29 days",
+    "option_b": "28 days",
+    "option_c": "27 days",
+    "option_d": "30 days",
+    "correct_option": "C"
+  },
+  {
+    "question_text": "32. Match Column-A with Column-B:\nColumn-A\n(a) Tropic of Cancer\n(b) Tropic of Capricorn\n(c) Arctic Circle\n(d) Antarctic Circle\nColumn-B\n(i) 23½° in Southern Hemisphere\n(ii) 23½° in Northern Hemisphere\n(iii) 66½° South of the Equator\n(iv) 66½° North of the Equator\nChoose the correct option.",
+    "option_a": "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)",
+    "option_b": "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)",
+    "option_c": "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)",
+    "option_d": "(a)-(i), (b)-(ii), (c)-(iii), (d)-(iv)",
+    "correct_option": "B"
+  },
+  {
+    "question_text": "33. Which one of the following is not correct about the earth?",
+    "option_a": "In size, the earth is the fifth largest planet",
+    "option_b": "Rotation is the movement of the earth around the sun",
+    "option_c": "The shape of the earth is described as a geoid",
+    "option_d": "The earth is the third nearest planet to the sun",
+    "correct_option": "B"
+  },
+  {
+    "question_text": "34. Read the two statements carefully:\nStatement A: At any place, a watch can be adjusted to read 12 o'clock when the sun is at the highest point in the sky, i.e., when it is mid-day.\nStatement B: The time shown by such a watch will give the local time for that place.\nChoose the correct option.",
+    "option_a": "Both A and B are false",
+    "option_b": "A is true but B is false",
+    "option_c": "A is false but B is true",
+    "option_d": "Both A and B are true",
+    "correct_option": "D"
+  },
+  {
+    "question_text": "35. Ecosystem is formed by:\n(1) all plants, animals and human beings\n(2) interrelationship between organisms and their surroundings\n(3) atmosphere and hydrosphere\n(4) lithosphere and biosphere",
+    "option_a": "all plants, animals and human beings",
+    "option_b": "interrelationship between organisms and their surroundings",
+    "option_c": "atmosphere and hydrosphere",
+    "option_d": "lithosphere and biosphere",
+    "correct_option": "B"
+  },
+  {
+    "question_text": "36. Read the statements A and B carefully:\nA: Human beings interact with the environment and modify it according to their need.\nB: A perfect balance is necessary between the natural and human environment.\nChoose the correct option.",
+    "option_a": "Both A and B are true but B does not explain A",
+    "option_b": "A is true but B is false",
+    "option_c": "A is false but B is true",
+    "option_d": "Both A and B are true and B explains A",
+    "correct_option": "D"
+  },
+  {
+    "question_text": "37. Why is tourism a major activity in Ladakh-the cold desert of India?\nA. Visits to Gompas\nB. Treks to see meadows and glaciers\nC. Witnessing ceremonies and festivities\nD. It is flat plain area\nChoose the correct option.",
+    "option_a": "B, C and D",
+    "option_b": "A, B and D",
+    "option_c": "A, B and C",
+    "option_d": "A, C and D",
+    "correct_option": "C"
+  },
+  {
+    "question_text": "38. Which one of the following gases is the second most plentiful gas in the air?",
+    "option_a": "Oxygen",
+    "option_b": "Carbon dioxide",
+    "option_c": "Hydrogen",
+    "option_d": "Nitrogen",
+    "correct_option": "A"
+  },
+  {
+    "question_text": "39. Given below are four statements:\nA: High pressure is associated with clear sunny skies.\nB: Air pressure is not influenced by temperature of air.\nC: Low pressure is associated with cloudy skies and wet weather.\nD: Air always moves from high-pressure to low-pressure areas.\nChoose the true statements about air pressure and temperature.",
+    "option_a": "A, B and D",
+    "option_b": "A, C and D",
+    "option_c": "B, C and D",
+    "option_d": "A, B and C",
+    "correct_option": "B"
+  },
+  {
+    "question_text": "40. Read the statements A and B carefully:\nA: Inland waterways and sea routes have been used for transport since early days.\nB: Waterways are the cheapest for carrying heavy and bulky goods over long distances.\nChoose the correct option.",
+    "option_a": "Both A and B are false",
+    "option_b": "A is true but B is false",
+    "option_c": "A is false but B is true",
+    "option_d": "Both A and B are true",
+    "correct_option": "D"
+  },
+  {
+    "question_text": "41. Many species of plants and animals have become vulnerable or endangered and some are on the verge of extinction. Choose the reasons from the following:\nA. Afforestation\nB. Landslides\nC. Constructional activities\nD. Poaching of animals\nOptions:",
+    "option_a": "A, B and C",
+    "option_b": "B, C and D",
+    "option_c": "A, B and D",
+    "option_d": "A, C and D",
+    "correct_option": "B"
+  },
+  {
+    "question_text": "42. Read the statements A and B carefully:\nA: Potential resources are those resources whose entire quantity may not be known.\nB: These resources are not being used at present.\nChoose the correct option.",
+    "option_a": "Both A and B are false",
+    "option_b": "A is true but B is false",
+    "option_c": "A is false but B is true",
+    "option_d": "Both A and B are true",
+    "correct_option": "D"
+  },
+  {
+    "question_text": "43. Match Column-A with Column-B:\nColumn-A\n(a) Sericulture\n(b) Pisciculture\n(c) Viticulture\n(d) Horticulture\nColumn-B\n(i) Growing vegetables, flowers and fruits for commercial use\n(ii) Cultivation of grapes\n(iii) Breeding of fish\n(iv) Commercial rearing of silkworms\nChoose the correct option.",
+    "option_a": "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)",
+    "option_b": "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)",
+    "option_c": "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)",
+    "option_d": "(a)-(i), (b)-(ii), (c)-(iii), (d)-(iv)",
+    "correct_option": "B"
+  },
+  {
+    "question_text": "44. Which of the following is not included in the Preamble of the Indian Constitution?",
+    "option_a": "Liberty",
+    "option_b": "Freedom",
+    "option_c": "Justice",
+    "option_d": "Equality",
+    "correct_option": "B"
+  },
+  {
+    "question_text": "45. A situation where a person does not have resources and opportunities that are available to other persons is known as",
+    "option_a": "inequality",
+    "option_b": "difference",
+    "option_c": "otherness",
+    "option_d": "diversity",
+    "correct_option": "A"
+  },
+  {
+    "question_text": "46. Which of the following is/are not characteristic/characteristics of democratic government?\nA. Indirect participation of people in decision making\nB. The Prime Minister has absolute power\nC. Explain and defend its actions to the people\nChoose the correct option.",
+    "option_a": "Only B",
+    "option_b": "Only A and C",
+    "option_c": "Only B and C",
+    "option_d": "Only A",
+    "correct_option": "A"
+  },
+  {
+    "question_text": "47. Which of the following functions does not come under the jurisdiction of Municipal Corporations?",
+    "option_a": "Making laws",
+    "option_b": "Maintaining law and order",
+    "option_c": "Developing parks",
+    "option_d": "Education",
+    "correct_option": "B"
+  },
+  {
+    "question_text": "48. Which of the following sequences in context of market chain is correct?",
+    "option_a": "Wholesaler-Producer-Retailer-Consumer",
+    "option_b": "Producer-Retailer-Wholesaler-Consumer",
+    "option_c": "Producer-Wholesaler-Retailer-Consumer",
+    "option_d": "Wholesaler-Retailer-Producer-Consumer",
+    "correct_option": "C"
+  },
+  {
+    "question_text": "49. Read the following statements in reference to agricultural labourers:\nStatement A: Employment guarantee programmes in rural areas can decrease migration from rural to urban areas.\nStatement B: One of the main reasons for rural to urban migration has been the higher income jobs available in urban areas.\nChoose the correct option.",
+    "option_a": "A is false but B is true",
+    "option_b": "Both A and B are true and B is the reason for A",
+    "option_c": "Both A and B are true but B is not the reason for A",
+    "option_d": "A is true but B is false",
+    "correct_option": "C"
+  },
+  {
+    "question_text": "50. Match Column-A with Column-B:\nColumn-A (Panchayati Raj Institutions)\n(a) Gram Sabha\n(b) Gram Panchayat\n(c) Janpad Panchayat\n(d) Zila Parishad\nColumn-B (Tasks)\n(i) Regulating the money among Gram Panchayats\n(ii) Coordinating the activities of the various Panchayats within its jurisdiction\n(iii) Approving BPL list\n(iv) Maintaining water sources\nChoose the correct option.",
+    "option_a": "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)",
+    "option_b": "(a)-(iii), (b)-(ii), (c)-(iv), (d)-(i)",
+    "option_c": "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)",
+    "option_d": "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)",
+    "correct_option": "D"
+  },
+  {
+    "question_text": "51. What does 'double burden' refer to?",
+    "option_a": "Pressure on men to get high-salaried job and not be emotionally weak",
+    "option_b": "Women doing household chores and working outside the home too",
+    "option_c": "Young girls doing the household chores and looking after the younger siblings too",
+    "option_d": "Boys are expected to be physically as well as emotionally strong",
+    "correct_option": "B"
+  },
+  {
+    "question_text": "52. The _____ protect citizens against the arbitrary and absolute exercise of power by the State.",
+    "option_a": "Human Rights",
+    "option_b": "Fundamental Rights",
+    "option_c": "Directive Principles of State Policy",
+    "option_d": "Political Rights",
+    "correct_option": "B"
+  },
+  {
+    "question_text": "53. Which of the following acts violate Article 21 of the Constitution of India?\nA. A sanitation staff not getting minimum wages fixed by the government\nB. Private schools charging exorbitant fees from students\nC. A textile company contaminating the groundwater which is a source of drinking water\nD. Denying hawkers to carry on their trade on the pavements\nChoose the correct option.",
+    "option_a": "Only B and C",
+    "option_b": "Only A and C",
+    "option_c": "Only B and D",
+    "option_d": "Only A and B",
+    "correct_option": "B"
+  },
+  {
+    "question_text": "54. Consider the following statements:\nStatement A: If an FIR has been registered for a cognizable offence, the police can detain any relative of the accused for 24 hours.\nStatement B: The police investigation includes collecting different kinds of evidence.\nChoose the correct option.",
+    "option_a": "A is false but B is true",
+    "option_b": "Both A and B are true and B is the reason for A",
+    "option_c": "Both A and B are true but B is not the reason for A",
+    "option_d": "A is true but B is false",
+    "correct_option": "A"
+  },
+  {
+    "question_text": "55. Which of the following could be an appropriate way to counter the marginalization of Adivasis?",
+    "option_a": "Showcase their culture as exotic in media",
+    "option_b": "Appeal them to adapt into the ways of living of majority community",
+    "option_c": "Teach their history in schools",
+    "option_d": "Ask them to migrate to cities",
+    "correct_option": "C"
+  },
+  {
+    "question_text": "56. Which of the following communities has/have been provided constitutional safeguards by enacting the Prevention of Atrocities Act in 1989?\nA. Minorities\nB. Women\nC. Scheduled Castes\nD. Scheduled Tribes\nChoose the correct option.",
+    "option_a": "Only B",
+    "option_b": "Only C and D",
+    "option_c": "Only A, C and D",
+    "option_d": "Only A",
+    "correct_option": "B"
+  },
+  {
+    "question_text": "57. The boundaries of disciplines that make up the social sciences need to be opened up and a plurality of approaches may be applied to understand a given phenomenon. What is this approach called?",
+    "option_a": "Bounded knowledge",
+    "option_b": "Scientific inquiry",
+    "option_c": "Utilitarianism",
+    "option_d": "Interdisciplinary thinking",
+    "correct_option": "D"
+  },
+  {
+    "question_text": "58. Which of the following is foundational logic in the drafting of syllabi of social science?",
+    "option_a": "Focusing on utilitarian aspects",
+    "option_b": "Developing more instructive textbooks",
+    "option_c": "Epistemic shift towards patriarchal nationalist frame",
+    "option_d": "Inclusion of local perception",
+    "correct_option": "D"
+  },
+  {
+    "question_text": "59. The concept of a 'fair trial' is an important one while talking about the criminal justice system. To teach this concept, you narrate to the students the story of a person who has been accused of theft and what happens thereafter at the police station and later in the court. What pedagogical resource have you used here?",
+    "option_a": "Case study",
+    "option_b": "Charts",
+    "option_c": "Political cartoon",
+    "option_d": "Survey data",
+    "correct_option": "A"
+  },
+  {
+    "question_text": "60. Which of the following should be followed by the teacher in his/her classroom to promote meaningful learning?",
+    "option_a": "Giving easy tasks to the students",
+    "option_b": "Promoting the 'culture of quizzing' among the students",
+    "option_c": "Giving those tasks to the students which are challenging",
+    "option_d": "Giving recall-based tasks to the students",
+    "correct_option": "C"
+  },
+  {
+    "question_text": "61. Below are two statements, one of them is Assertion (A) and the other is Reason (R). Read them carefully and choose the correct answer with the help of given options:\nAssertion (A): The study of social science helps the learners in understanding the contemporary society better.\nReason (R): Social science education aims at providing students essential knowledge, skills and attitude necessary for self-development and also for becoming an effective member of the society.\nOptions:",
+    "option_a": "Both A and R are true but R is not the correct explanation of A",
+    "option_b": "A is true but R is false",
+    "option_c": "A is false but R is true",
+    "option_d": "Both A and R are true and R is the correct explanation of A",
+    "correct_option": "D"
+  },
+  {
+    "question_text": "62. Teaching social science is a",
+    "option_a": "professional activity",
+    "option_b": "process of transmission of facts",
+    "option_c": "coaching for memorization",
+    "option_d": "personal activity",
+    "correct_option": "B"
+  },
+  {
+    "question_text": "63. Which of the following is/are the most suitable teaching-learning material/materials to explain different parts of the earth to the students?\nA. Globe\nB. Map\nC. Atlas\nChoose the correct option.",
+    "option_a": "B and C",
+    "option_b": "A and C",
+    "option_c": "Only A",
+    "option_d": "A and B",
+    "correct_option": "D"
+  },
+  {
+    "question_text": "64. Which of the following pedagogical techniques should be used by teachers for making social science enjoyable for students?\nA. Organization of visits to museum\nB. Celebration of Social Science Week\nC. Encouraging watching of night sky\nD. Sharing large statistical data related to social facts\nChoose the correct option.",
+    "option_a": "B, C and D",
+    "option_b": "A, C and D",
+    "option_c": "A, B and D",
+    "option_d": "A, B and C",
+    "correct_option": "D"
+  },
+  {
+    "question_text": "65. Below are two statements. Read them carefully and choose the correct answer with the help of given options:\nStatement I: Meaningful learning in social science is a generative process of storage and retrieval of information.\nStatement II: Thinking, language (verbal or sign) and doing things are intimately intertwined.\nOptions:",
+    "option_a": "Both Statement I and Statement II are false",
+    "option_b": "Statement I is true but Statement II is false",
+    "option_c": "Statement I is false but Statement II is true",
+    "option_d": "Both Statement I and Statement II are true",
+    "correct_option": "C"
+  },
+  {
+    "question_text": "66. Below are two statements. Read them carefully and choose the correct answer with the help of given options:\nStatement I: In a democratic setup, centralization of power such as the 'Panchayati Raj System' has gained importance.\nStatement II: 'Panchayati Raj System' aims at raising the levels of participation and involvement of people.\nOptions:",
+    "option_a": "Both Statement I and Statement II are false",
+    "option_b": "Statement I is true but Statement II is false",
+    "option_c": "Statement I is false but Statement II is true",
+    "option_d": "Both Statement I and Statement II are true",
+    "correct_option": "C"
+  },
+  {
+    "question_text": "67. The 'Sabhas' in the reign of Pallava, through their subcommittees, performed various works such as irrigation, road construction, maintenance of local temples, etc. Which of the following child-centred activities can be done to acquaint the students with the nuances of their functioning?\nA. Description of work division on the school campus\nB. Example of different groups created for classroom management\nC. Getting a real tour of the Sabhas of the reign of Pallava\nD. Getting a tour of the Sabhas of the reign of Pallava through audio-visual material\nChoose the correct option.",
+    "option_a": "B and C",
+    "option_b": "A, B and C",
+    "option_c": "A, B and D",
+    "option_d": "A and B",
+    "correct_option": "C"
+  },
+  {
+    "question_text": "68. To ensure that social science teaching moves away from an excessive emphasis on developmental issues to an understanding of issues related to justice and dignity, there needs to be a shift in focus from utilitarianism to",
+    "option_a": "consequentialism",
+    "option_b": "egalitarianism",
+    "option_c": "existentialism",
+    "option_d": "altruism",
+    "correct_option": "B"
+  },
+  {
+    "question_text": "69. Below are two statements, one of them is Assertion (A) and the other is Reason (R). Read them carefully and choose the correct answer with the help of given options:\nAssertion (A): An important aspect of social science is the possibility of having different shades or at times even diametrically opposite answers.\nReason (R): It is critical for a social science teacher to move away from the age-old habit of preaching to the pulpit.\nOptions:",
+    "option_a": "Both A and R are true but R is not the correct explanation of A",
+    "option_b": "A is true but R is false",
+    "option_c": "A is false but R is true",
+    "option_d": "Both A and R are true and R is the correct explanation of A",
+    "correct_option": "D"
+  },
+  {
+    "question_text": "70. The use of iron in the Indian subcontinent began about 3000 years ago. What task would you give to your students to develop their understanding on such historical episodes?\nA. Reviewing the book 'What Happened in History' written by Gordon Childe\nB. Meeting someone from the traditional blacksmithing community of your area and gathering information\nC. Visiting a factory under the supervision of a teacher and noting down the process of making iron\nD. Collecting information by visiting any Megalithic site located in the Deccan under the supervision of a teacher\nChoose the correct option.",
+    "option_a": "A, C and D",
+    "option_b": "B, C and D",
+    "option_c": "Only A",
+    "option_d": "A, B and C",
+    "correct_option": "B"
+  },
+  {
+    "question_text": "71. How will you assess the students through the 'project of wallpaper'?\nA. Seeing the selection of the subjects by the students\nB. Seeing the presentation on the subject matter by the students\nC. Asking follow-up questions after the presentation on the topic by the students\nD. Asking follow-up questions before the presentation on the topic by the students\nChoose the correct option.",
+    "option_a": "A, B and C",
+    "option_b": "A and D",
+    "option_c": "A, C and D",
+    "option_d": "A and B",
+    "correct_option": "A"
+  },
+  {
+    "question_text": "72. Which of the following statements is not true about formative assessments?",
+    "option_a": "The main objective of such tests is to make a final judgement about whether students have met the learning goals of the course.",
+    "option_b": "They allow teachers to modify their own teaching strategies through ongoing feedback.",
+    "option_c": "They are diagnostic in nature.",
+    "option_d": "Formative assessments are a way for teachers to frequently check students' progress in a course.",
+    "correct_option": "A"
+  },
+  {
+    "question_text": "73. Which of the following is true about testing?",
+    "option_a": "It is not a standard for comparison",
+    "option_b": "It is a ground for admission only",
+    "option_c": "It is not a trial of a student's qualities",
+    "option_d": "It is a ground for critical examination",
+    "correct_option": "D"
+  },
+  {
+    "question_text": "74. Below are two statements. Read them carefully and choose the correct answer with the help of given options:\nStatement I: Learning is a continuous process.\nStatement II: Learning cannot take place outside the school premises.\nOptions:",
+    "option_a": "Both Statement I and Statement II are false",
+    "option_b": "Statement I is true but Statement II is false",
+    "option_c": "Statement I is false but Statement II is true",
+    "option_d": "Both Statement I and Statement II are true",
+    "correct_option": "B"
+  },
+  {
+    "question_text": "75. Below are two statements, one of them is Assertion (A) and the other is Reason (R). Read them carefully and choose the correct answer with the help of given options:\nAssertion (A): Testing has a diagnostic function to indicate the presence or absence of a characteristic.\nReason (R): Testing is an event or a situation that comprises a set of questions or problems that analyze a person's quality of learning or determine his knowledge, abilities, etc.\nOptions:",
+    "option_a": "Both A and R are true but R is not the correct explanation of A",
+    "option_b": "A is true but R is false",
+    "option_c": "A is false but R is true",
+    "option_d": "Both A and R are true and R is the correct explanation of A",
+    "correct_option": "A"
+  },
+  {
+    "question_text": "76. Below are two statements. Read them carefully and choose the correct answer with the help of given options:\nStatement I: In school education, paper-pencil tests are the only way of testing the learners.\nStatement II: During the testing in schools, values or numbers are assigned to represent that the learner has performed.\nOptions:",
+    "option_a": "Both Statement I and Statement II are false",
+    "option_b": "Statement I is true but Statement II is false",
+    "option_c": "Statement I is false but Statement II is true",
+    "option_d": "Both Statement I and Statement II are true",
+    "correct_option": "C"
+  },
+  {
+    "question_text": "77. A place, where documents and manuscripts are stored and today all National and State Governments have them, to keep all their old official records and transactions, is called",
+    "option_a": "Library",
+    "option_b": "Parliament",
+    "option_c": "Archive",
+    "option_d": "Secretariat",
+    "correct_option": "C"
+  },
+  {
+    "question_text": "78. Which of the following statements related to Tamil region is wrong?",
+    "option_a": "Muvendar is a Tamil word meaning three chiefs used for heads of three ruling families.",
+    "option_b": "The three ruling families were the Cholas, Cheras and Pandyas.",
+    "option_c": "Each of the three chiefs had three centres of power.",
+    "option_d": "Sangam poems mention the Muvendar.",
+    "correct_option": "C"
+  },
+  {
+    "question_text": "79. Assertion: The relationship between the State and religion may be a bone of contention in today's Indian polity, but history presents workable solutions.\nChoose the appropriate reason/reasons for the above assertion.\nA. Temples were often central to the economy and society.\nB. The town of Ramdaspur had developed around the central Gurudwara called Harmandar Sahib.\nC. Sufis were Muslim mystics who rejected outward religiosity and emphasized compassion for all fellow human beings.\nD. History is about the battles between different States and religions.",
+    "option_a": "Only A",
+    "option_b": "Only B",
+    "option_c": "Only D",
+    "option_d": "Only A, B and C",
+    "correct_option": "D"
+  },
+  {
+    "question_text": "80. Unusual for the 12th century, Kalhana used a variety of sources. Unlike the writers of Prashastis, he was often critical about rulers and their practices. His sources include:",
+    "option_a": "earlier histories and eyewitness accounts",
+    "option_b": "earlier histories, eyewitness accounts and documents",
+    "option_c": "earlier histories, eyewitness accounts, documents and inscriptions",
+    "option_d": "earlier histories",
+    "correct_option": "C"
+  },
+  {
+    "question_text": "81. Which of the following are true with regard to the Marathas?\nA. Shivaji carved out a stable kingdom with the support of powerful warrior families.\nB. Powerful warrior families were called 'Deshmukhs'.\nC. Highly mobile, peasant pastoralists were the backbone of the Maratha army.\nD. Highly mobile, peasant pastoralists were called 'Kunbis'.\nChoose the correct option.",
+    "option_a": "Only C and D",
+    "option_b": "A, B, C and D",
+    "option_c": "Only A, B and C",
+    "option_d": "Only A and C",
+    "correct_option": "D"
+  },
+  {
+    "question_text": "82. Historical claim: \"The Ahom built a large State.\"\nChoose the appropriate evidences for the above claim.\nA. The Ahoms used firearms to build a large State.\nB. The Ahoms made high-quality gunpowder and cannons.\nC. The Ahom State depended upon forced labour.\nD. In 1662, the Ahoms defeated the Mughals.",
+    "option_a": "B, C and D",
+    "option_b": "A, C and D",
+    "option_c": "A, B and D",
+    "option_d": "A, B and C",
+    "correct_option": "D"
+  },
+  {
+    "question_text": "83. State the validity of the following on peasant revolts:\nAssertion: Those who are oppressed do not always rise up in rebellion. They do so only at times.\nReason: In 1859, the Indigo Ryots felt that they had the support of the local Zamindars against the planters.\nConclusion: Women turned up to fight with pots, pans and kitchen implements.",
+    "option_a": "Only Assertion and Reason are valid",
+    "option_b": "Only Reason and Conclusion are valid",
+    "option_c": "Only Assertion and Conclusion are valid",
+    "option_d": "Assertion, Reason and Conclusion all are valid",
+    "correct_option": "D"
+  },
+  {
+    "question_text": "84. The following are some facts related to Company policies during the second half of the 18th century:\nA. Artisans started deserting villages.\nB. The Company purchased goods in India by gold and silver.\nC. The revenue collected in Bengal could finance the purchase of goods.\nD. The Company became the Diwan.\nArrange them in sequence of their occurrence.",
+    "option_a": "B, A, C, D",
+    "option_b": "A, B, C, D",
+    "option_c": "C, B, A, D",
+    "option_d": "B, D, C, A",
+    "correct_option": "D"
+  },
+  {
+    "question_text": "85. Which of the following institutional developments was/were direct outcome/outcomes of the Wood's Despatch?\nA. Education departments of the government were set up in provinces.\nB. Centralization of education under the Governor General took place.\nC. Steps were taken to establish a system of university education.\nD. Indian Civil Service colleges were set up in England.\nChoose the correct option.",
+    "option_a": "Two of the above",
+    "option_b": "Three of the above",
+    "option_c": "All of the above",
+    "option_d": "One of the above",
+    "correct_option": "A"
+  },
+  {
+    "question_text": "86. Who amongst the following argued that before Aryan rule, there existed a golden age when warrior-peasants tilled the land and ruled the Maratha countryside in just and fair ways?",
+    "option_a": "Ram Mohan Roy",
+    "option_b": "Periyar",
+    "option_c": "Jyotirao Phule",
+    "option_d": "Guru Nanak",
+    "correct_option": "C"
+  },
+  {
+    "question_text": "87. Consider the following statements on Non-Brahman Movement:\nA. The movement came from non-Brahman castes that had acquired access to education.\nB. The movement argued that the Aryans were the indigenous races.\nC. The movement came from non-Brahman castes with wealth and influence.\nChoose the correct option.",
+    "option_a": "Only B and C are valid",
+    "option_b": "Only C is valid",
+    "option_c": "Only B is valid",
+    "option_d": "Only A and C are valid",
+    "correct_option": "D"
+  },
+  {
+    "question_text": "88. Social insecurities, in any society, result from a sense of alienation. In this context, the Indian Nationalist Movement was a movement:\nA. to acknowledge the supremacy of people over the structures of government\nB. to do away with the differences of class, colour and language\nC. to acknowledge the government as being equal to the God\nChoose the correct option.",
+    "option_a": "Only B",
+    "option_b": "Only A and B",
+    "option_c": "Only B and C",
+    "option_d": "Only A",
+    "correct_option": "B"
+  },
+  {
+    "question_text": "89. It was established in Madras (Chennai) in 1864. It worked to abolish caste distinctions and promote widow remarriage and women's education. It condemned the superstitions and rituals of orthodox Hinduism. Identify the associated movement/organization.",
+    "option_a": "Veda Samaj",
+    "option_b": "Vedanta Samaj",
+    "option_c": "Theosophical Society",
+    "option_d": "Self-Respect Movement",
+    "correct_option": "A"
+  },
+  {
+    "question_text": "90. After the attainment of independence, why did the demand for linguistic States intensify?\nA. In the 1920s, the Indian National Congress had promised that after independence each major linguistic group would have its own province.\nB. After independence, the Congress did not take any steps to honour its promise of major linguistic groups having its own province.\nC. The Kannada, Telugu speakers had looked forward to having their own State. The strongest protest came from Tamil speakers of the Telugu-speaking districts.\nD. Nehru and Patel were against the creation of linguistic States.\nChoose the correct option.",
+    "option_a": "Only B, C and D",
+    "option_b": "Only A and B",
+    "option_c": "Only C and D",
+    "option_d": "Only A, B and C",
+    "correct_option": "D"
+  }
+]
