@@ -24,7 +24,7 @@
     "correct_option": "B"
   },
   {
-    "question_text": "34. One of the factors of 5(2x - 4y)^2 - 6(4x^2 - 16y^2 - 16xy) - 6 is:",
+    "question_text": "34. One of the factors of 5(2x - 4y)² - 6(4x² - 16y² - 16xy) - 6 is:",
     "option_a": "4x - 8y - 3",
     "option_b": "3x - 6y - 1",
     "option_c": "3x - 6y + 1",
@@ -48,19 +48,19 @@
     "correct_option": "A"
   },
   {
-    "question_text": "37. If (3x - 30^°) and (2x - 20^°) are two supplementary angles, then the value of (2x - 4^°) is:",
-    "option_a": "76^°",
-    "option_b": "80^°",
-    "option_c": "84^°",
-    "option_d": "72^°",
+    "question_text": "37. If (3x - 30°) and (2x - 20°) are two supplementary angles, then the value of (2x - 4°) is:",
+    "option_a": "76°",
+    "option_b": "80°",
+    "option_c": "84°",
+    "option_d": "72°",
     "correct_option": "B"
   },
   {
-    "question_text": "38. Angles P and Q of a triangle PQR are respectively 30^° and 50^°. If the bisectors of angles P and Q meet at a point O, then the value of (2 angle POQ - 10^°) is:",
-    "option_a": "190^°",
-    "option_b": "270^°",
-    "option_c": "250^°",
-    "option_d": "150^°",
+    "question_text": "38. Angles P and Q of a triangle PQR are respectively 30° and 50°. If the bisectors of angles P and Q meet at a point O, then the value of (2 angle POQ - 10°) is:",
+    "option_a": "190°",
+    "option_b": "270°",
+    "option_c": "250°",
+    "option_d": "150°",
     "correct_option": "B"
   },
   {
@@ -88,7 +88,7 @@
     "correct_option": "A"
   },
   {
-    "question_text": "42. The perimeter and area of a trapezium are respectively 52 cm and 128cm^2. If the sum of its non-parallel sides is 20 cm, then the distance between its parallel sides is:",
+    "question_text": "42. The perimeter and area of a trapezium are respectively 52 cm and 128cm². If the sum of its non-parallel sides is 20 cm, then the distance between its parallel sides is:",
     "option_a": "8 cm",
     "option_b": "10 cm",
     "option_c": "12 cm",
@@ -96,7 +96,7 @@
     "correct_option": "A"
   },
   {
-    "question_text": "43. The area of a rectangular field is 48m^2 and one of its sides is 6 m. How long will a person take to cross this field diagonally at a speed of 20 m per minute?",
+    "question_text": "43. The area of a rectangular field is 48m² and one of its sides is 6 m. How long will a person take to cross this field diagonally at a speed of 20 m per minute?",
     "option_a": "20 seconds",
     "option_b": "30 seconds",
     "option_c": "40 seconds",
