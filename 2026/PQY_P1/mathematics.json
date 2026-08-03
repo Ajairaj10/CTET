@@ -56,7 +56,7 @@
     "correct_option": "B"
   },
   {
-    "question_text": "38. Which of the following has/have only two lines of symmetry?\nA. Equilateral triangle\nB. Rectangle\nC. Rhombus\nD. Isosceles triangle\nChoose the correct option.",
+    "question_text": "38. Which of the following has/have only two lines of symmetry? A. Equilateral triangle B. Rectangle C. Rhombus D. Isosceles triangle Choose the correct option.",
     "option_a": "Only B",
     "option_b": "B and C",
     "option_c": "C and D",
@@ -80,7 +80,7 @@
     "correct_option": "B"
   },
   {
-    "question_text": "41. The following table shows the number of visitors to a library in the first six days of a week:\nMonday: 86, Tuesday: 114, Wednesday: 141, Thursday: 95, Friday: 124, Saturday: 151\nOn which day, the number of visitors to the library was 29 more than its previous day?",
+    "question_text": "41. The following table shows the number of visitors to a library in the first six days of a week: Monday: 86, Tuesday: 114, Wednesday: 141, Thursday: 95, Friday: 124, Saturday: 151 On which day, the number of visitors to the library was 29 more than its previous day?",
     "option_a": "Wednesday",
     "option_b": "Friday",
     "option_c": "Saturday",
@@ -104,7 +104,7 @@
     "correct_option": "B"
   },
   {
-    "question_text": "44. If 101 × 2 + 10 × 12 - 0 × 10 - 2 × 99 = 104 + □, then what is the number at □?",
+    "question_text": "44. If 101 * 2 + 10 * 12 - 0 * 10 - 2 * 99 = 104 + □, then what is the number at □?",
     "option_a": "1327",
     "option_b": "1329",
     "option_c": "1336",
@@ -128,7 +128,7 @@
     "correct_option": "B"
   },
   {
-    "question_text": "47. Which of the following is/are appropriate in the context of social perspectives on assessment in mathematics?\nA. Bringing the experiences of children outside the school in assessment\nB. Making standardized tests\nC. Using folk algorithms from different cultures\nChoose the correct option.",
+    "question_text": "47. Which of the following is/are appropriate in the context of social perspectives on assessment in mathematics? A. Bringing the experiences of children outside the school in assessment B. Making standardized tests C. Using folk algorithms from different cultures Choose the correct option.",
     "option_a": "Only B",
     "option_b": "A and B",
     "option_c": "Only A",
@@ -144,7 +144,7 @@
     "correct_option": "B"
   },
   {
-    "question_text": "49. The statements given below are marked as Assertion (A) and Reason (B):\nA: It is important to introduce data representation and analysis in the primary stage and to strengthen it in the upper primary stage.\nB: Data analysis exposes children at primary level to uncertainty and changeability in information as opposed to the fixed nature of mathematical facts they mostly study.\nChoose the correct option.",
+    "question_text": "49. The statements given below are marked as Assertion (A) and Reason (B): A: It is important to introduce data representation and analysis in the primary stage and to strengthen it in the upper primary stage. B: Data analysis exposes children at primary level to uncertainty and changeability in information as opposed to the fixed nature of mathematical facts they mostly study. Choose the correct option.",
     "option_a": "A is false and B is true.",
     "option_b": "A is true but B is not the correct reason of A.",
     "option_c": "A is true and B is the correct reason of A.",
@@ -156,7 +156,7 @@
     "option_a": "Solve 1/2 + 1/3.",
     "option_b": "Extend the sequence A, DE, HIJ, _____ .",
     "option_c": "There are 12 balls in a box. How many balls will be there in 5 such boxes?",
-    "option_d": "Is 15 × 4 equal to 4 × 15?",
+    "option_d": "Is 15 * 4 equal to 4 * 15?",
     "correct_option": "A"
   },
   {
@@ -208,7 +208,7 @@
     "correct_option": "A"
   },
   {
-    "question_text": "57. A primary class mathematics teacher brings in two jars of different shapes, with water in one of them, to her classroom. She pours water completely from the taller, thin jar to the shorter, broad jar. She then asks the question, \"Which jar can hold more water?\"\nThis activity is most appropriate to teach",
+    "question_text": "57. A primary class mathematics teacher brings in two jars of different shapes, with water in one of them, to her classroom. She pours water completely from the taller, thin jar to the shorter, broad jar. She then asks the question, \"Which jar can hold more water?\" This activity is most appropriate to teach",
     "option_a": "formula for calculating volume",
     "option_b": "volume and its conservation",
     "option_c": "the concept of standard units of measurement of liquids",
@@ -224,7 +224,7 @@
     "correct_option": "A"
   },
   {
-    "question_text": "59. A class II mathematics teacher gives the following word problem on addition to the students to solve:\n\"A bag contains 4 mangoes and 6 more mangoes are added to it. How many total mangoes are there in the bag?\"\nThis type of word problem belongs to which of the following structures of addition?",
+    "question_text": "59. A class II mathematics teacher gives the following word problem on addition to the students to solve: \"A bag contains 4 mangoes and 6 more mangoes are added to it. How many total mangoes are there in the bag?\" This type of word problem belongs to which of the following structures of addition?",
     "option_a": "Segregation",
     "option_b": "Repeated addition",
     "option_c": "Aggregation",
