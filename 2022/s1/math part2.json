@@ -1,0 +1,122 @@
+[
+  {
+    "question_text": "1. For primary grade children an understanding of 'approximation and estimation' would lead to the development of which of the following concepts ?\n(a) Transitivity\n(b) Measurement\n(c) Patterns\n(d) Calculations\nChoose the correct options :",
+    "option_a": "(1) (a), (c) and (d)",
+    "option_b": "(2) (a), (b) and (c)",
+    "option_c": "(3) (b), (c) and (d)",
+    "option_d": "(4) (a), (b) and (d)",
+    "correct_option": "C"
+  },
+  {
+    "question_text": "2. When asked to write five hundred sixty seven a child writes it as 50067. What could be the most appropriate reason for this error ?",
+    "option_a": "Child is not attentive in the class and is a careless listener.",
+    "option_b": "Child is a careful listener but has not establised the concept of place value.",
+    "option_c": "Child recognizes only two-digit numbers.",
+    "option_d": "Teacher's inability to teach the concept of place value.",
+    "correct_option": "B"
+  },
+  {
+    "question_text": "3. Which of the following is an example of cultural specific knowledge that is displayed in early mathematics learning by very young children ?",
+    "option_a": "Number words used by the learners",
+    "option_b": "Number operations",
+    "option_c": "Spatial understanding",
+    "option_d": "Solving mathematical puzzels etc.",
+    "correct_option": "A"
+  },
+  {
+    "question_text": "4. Which one of the following statements is true with respect to mathematics learning ?",
+    "option_a": "Boys are better at learning mathematics as compared to girls",
+    "option_b": "There must be separate classrooms for children with special needs as they cannot learn with other children",
+    "option_c": "Everybody can learn mathematics",
+    "option_d": "Procedural fluency in mathematics will always lead to conceptual clarity",
+    "correct_option": "C"
+  },
+  {
+    "question_text": "5. National Curriculum Framework, 2005 argues for a mathematics curriculum which is \"ambitious\". Which among the following is/are most appropriate to represent this vision ?\n(a) Curriculum needs to develop students' capabilities in numeracy.\n(b) Curriculum needs to develop students' inner resources to think and reason mathematically.\n(c) Curriculum needs to develop students' ability in solving mathematical puzzles.\nChoose the correct option :",
+    "option_a": "(1) (a) and (c)",
+    "option_b": "(2) Only (b)",
+    "option_c": "(3) (b) and (c)",
+    "option_d": "(4) (a) and (b)",
+    "correct_option": "C"
+  },
+  {
+    "question_text": "6. According to National Curriculum Framework 2005, primary stage mathematics curriculum should least focus on",
+    "option_a": "development of relevant mathematical vocabulary",
+    "option_b": "development of spatial understanding",
+    "option_c": "identification of patterns",
+    "option_d": "use of standard algorithms to solve problems",
+    "correct_option": "D"
+  },
+  {
+    "question_text": "7. Which of the following is not an objective of formative assessment ?",
+    "option_a": "To know about child's misconceptions",
+    "option_b": "To assess the child's understanding in construction of knowledge",
+    "option_c": "To introduce a new concept based on the previous concept",
+    "option_d": "To know if a teaching strategy is appropriate or not",
+    "correct_option": "C"
+  },
+  {
+    "question_text": "8. A primary teacher is focusing on the development of mathematical reasoning skills in her students.\nWhich of the following tasks may help her in the most appropriate manner ?",
+    "option_a": "Using mathematical games and puzzles in her class",
+    "option_b": "Giving a lot of questions, based on a given formula, to practice",
+    "option_c": "Conducting regular class tests",
+    "option_d": "Solving textbook questions on the blackboard",
+    "correct_option": "A"
+  },
+  {
+    "question_text": "9. Which of the following represents the recommendations of National Education Policy (NEP) 2020, for curriculum and pedagogy in school ?\n(a) Learning should be holistic and integrated\n(b) Restructuring school curriculum and pedagogy in a new 5+3+3+4 design\n(c) Restructuring school curriculum and pedagogy in a new 5+2+3+3 design\n(d) Foundational stage should include learning from formal textbooks\nChoose the correct option :",
+    "option_a": "(1) (a) and (c)",
+    "option_b": "(2) (a) and (b)",
+    "option_c": "(3) (b) and (d)",
+    "option_d": "(4) (c) and (d)",
+    "correct_option": "B"
+  },
+  {
+    "question_text": "10. A teacher uses manipulatives such as blocks, marbles, etc. for developing the concept of multiplication. Use of such mainpulativeatives :",
+    "option_a": "creates confusion among learners",
+    "option_b": "hinders the understanding of the formal algorithms",
+    "option_c": "provides leisure time to young children",
+    "option_d": "helps in conceptual learning",
+    "correct_option": "D"
+  },
+  {
+    "question_text": "11. Which of the following is used to analyze the misconceptions and learning difficulties of children in a particular concept ?",
+    "option_a": "Norm-Referenced test",
+    "option_b": "Criterion-referenced test",
+    "option_c": "Diagnostic test",
+    "option_d": "Remedial teaching",
+    "correct_option": "C"
+  },
+  {
+    "question_text": "12. On the basis of the information given in the statement, which of the following teaching strategy gives first-hand experience to the learner to construct mathematical knowledge ?\nStatement : A teacher wants to teach the concept that sum of the angles in a quadrilateral is 360°.\nTeaching strategies :\nI. Teacher draws a quadrilateral on blackboard and measures its angles using protractor and shows that sum of the angles is equal to 360°.\nII. Teacher draws a quadrilateral on a piece of paper and draws its diagonal to divide it in to two triangles. He uses angle sum property of triangles to show that sum of the angles of a quadrilateral is 360°.\nIII. Teacher asks students to construct various types of quadrilaterals on a piece of paper and measure their interior angles and find out the sum of the angles in each type of quadrilateral.\nChoose the correct option :",
+    "option_a": "(1) Only I",
+    "option_b": "(2) Only III",
+    "option_c": "(3) I and II",
+    "option_d": "(4) II and III",
+    "correct_option": "B"
+  },
+  {
+    "question_text": "13. According to National Curriculum Framework, 2005, which of the following is not true for including mathematics used in various cultures by street vendors and common people in a primary grade mathematics curriculum ?",
+    "option_a": "There is no linkage between formal mathematics and the one used by street vendors and common people.",
+    "option_b": "There are immensely rich mathematical activities performed by common people which can be included in classroom discussions.",
+    "option_c": "Inclusion of diverse mathematical practices of various cultures can be utilized to make mathematics learning interesting and relevant.",
+    "option_d": "Children from diverse cultural backgrounds can bring different ways of dealing with numbers, calculations and counting in classroom discussions.",
+    "correct_option": "A"
+  },
+  {
+    "question_text": "14. A common error that a mathematics teacher often encounters when children are asked to add two fractions is; Adding the numerator with the numerator and denominator with the denominator. What could be the most probable reason for such error ?",
+    "option_a": "Lack of written practice",
+    "option_b": "Lack of attention in the class",
+    "option_c": "Prior understanding of children related to addition of natural numbers",
+    "option_d": "Non-availability of teaching-learning material",
+    "correct_option": "C"
+  },
+  {
+    "question_text": "15. Which of the following assessment techniques will help to reduce the fear and anxiety in mathematics among learners ?\n(a) Project\n(b) Cooperative learning tasks\n(c) Paper-pencil test\n(d) Summative assessment\nChoose the correct option :",
+    "option_a": "(1) (b) and (c)",
+    "option_b": "(2) (a) and (d)",
+    "option_c": "(3) (b) and (d)",
+    "option_d": "(4) (a) and (b)",
+    "correct_option": "D"
+  }
+]

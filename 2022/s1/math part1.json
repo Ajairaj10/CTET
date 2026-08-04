@@ -1,0 +1,122 @@
+[
+  {
+    "question_text": "1. The difference between the greatest four-digit number and the smallest four-digit number, when divided by 15, leaves the remainder :",
+    "option_a": "11",
+    "option_b": "12",
+    "option_c": "13",
+    "option_d": "14",
+    "correct_option": "D"
+  },
+  {
+    "question_text": "2. (11 ones + 10 tens + 12 hundreds - one thousand) is equal to",
+    "option_a": "310",
+    "option_b": "311",
+    "option_c": "312",
+    "option_d": "313",
+    "correct_option": "C"
+  },
+  {
+    "question_text": "3. The difference between the Smallest Common Multiple and the Highest Common Factor of 15, 20 and 25 is",
+    "option_a": "115",
+    "option_b": "140",
+    "option_c": "275",
+    "option_d": "295",
+    "correct_option": "D"
+  },
+  {
+    "question_text": "4. What should be added to the product 201 * 105 to get 21171 ?",
+    "option_a": "65",
+    "option_b": "66",
+    "option_c": "67",
+    "option_d": "68",
+    "correct_option": "C"
+  },
+  {
+    "question_text": "5. In a school, there are 1260 students, out of which two-third are boys and the rest are girls. Three-fourth of the number of boys are players and half of the number of girls are also players. The number of students who are not players in the school is :",
+    "option_a": "380",
+    "option_b": "400",
+    "option_c": "420",
+    "option_d": "450",
+    "correct_option": "C"
+  },
+  {
+    "question_text": "6. How many 3/8 are there in 9/4 ?",
+    "option_a": "3",
+    "option_b": "6",
+    "option_c": "9",
+    "option_d": "12",
+    "correct_option": "B"
+  },
+  {
+    "question_text": "7. Neena bought 3 kg 650 g onions and 1 kg 800 g tomatoes from a vegetable shop. By what amount does the weight of onions exceed the weight of tomatoes ?",
+    "option_a": "1 kg 150 g",
+    "option_b": "2 kg 650 g",
+    "option_c": "2 kg 150 g",
+    "option_d": "1 kg 850 g",
+    "correct_option": "A"
+  },
+  {
+    "question_text": "8. On a map, half centimetre shows 225 km on the ground. If two cities are 1800 km apart on the ground, then the distance between them on the map is :",
+    "option_a": "3 cm",
+    "option_b": "4 cm",
+    "option_c": "6 cm",
+    "option_d": "8 cm",
+    "correct_option": "B"
+  },
+  {
+    "question_text": "9. The number of minutes in 7 1/2 days is equal to the number of seconds in",
+    "option_a": "3 hours",
+    "option_b": "3 1/2 hours",
+    "option_c": "4 hours",
+    "option_d": "4 1/2 hours",
+    "correct_option": "A"
+  },
+  {
+    "question_text": "10. The number of cubes of side 30 cm which can be fitted in a cubical box with measurements 7.2 m * 5.4 m * 1.8 m is :",
+    "option_a": "2592",
+    "option_b": "2594",
+    "option_c": "2596",
+    "option_d": "2598",
+    "correct_option": "A"
+  },
+  {
+    "question_text": "11. The total number of right angles in the English letters 'H' and 'E' is",
+    "option_a": "5",
+    "option_b": "6",
+    "option_c": "7",
+    "option_d": "8",
+    "correct_option": "D"
+  },
+  {
+    "question_text": "12. The perimeter of a square is 120 cm. The length of a rectangle is two times the side of the square. The perimeter of the rectangle is 156 cm. What is the difference between the areas of the rectangle and the square ?",
+    "option_a": "90 cm²",
+    "option_b": "145 cm²",
+    "option_c": "150 cm²",
+    "option_d": "180 cm²",
+    "correct_option": "C"
+  },
+  {
+    "question_text": "13. The marks obtained by 25 students in a test are given below :\n54, 68, 42, 71, 56, 62, 71, 78, 51, 72, 53, 44, 58, 47, 64, 41, 57, 89, 53, 84, 57, 45, 48, 52, 62\nHow many students obtained marks between 55 and 75 ?",
+    "option_a": "10",
+    "option_b": "11",
+    "option_c": "12",
+    "option_d": "13",
+    "correct_option": "D"
+  },
+  {
+    "question_text": "14. The following table shows the number of books sold by a shopkeeper in 6 days of a week :\nDays: Sunday | Monday | Tuesday | Wednesday | Thursday | Friday\nNumber of books sold: 65 | 40 | 30 | 50 | 20 | 70\nWhat is the difference between the total number of books sold by the shopkeeper on Sunday, Monday and Thursday, and the total number of books sold on Friday and Wednesday ?",
+    "option_a": "5",
+    "option_b": "4",
+    "option_c": "3",
+    "option_d": "6",
+    "correct_option": "B"
+  },
+  {
+    "question_text": "15. Observe the pattern below :\n2 * 1 = 2\n3 * 2 = 6\n5 * 3 = 15\n7 * 4 = 28\n11 * 5 = 55\n13 * 6 = 78\n17 * 7 = 119\n19 * 8 = 152\n___ * 9 = ___\nIdentify the missing numbers respectively in the above pattern.",
+    "option_a": "21 and 189",
+    "option_b": "23 and 207",
+    "option_c": "25 and 225",
+    "option_d": "29 and 261",
+    "correct_option": "D"
+  }
+]

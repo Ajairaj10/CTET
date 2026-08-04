@@ -1,0 +1,242 @@
+[
+  {
+    "question_text": "1. Assertion (A) : The physical development of children is important as it also influences a child's social and cognitive development.\nReason (R) : All aspects of development are inter related in childhood and greatly influence each other.\nChoose the correct option.",
+    "option_a": "Both (A) and (R) are true and (R) is the correct explanation of (A).",
+    "option_b": "Both (A) and (R) are true but (R) is not the correct explanation of (A).",
+    "option_c": "(A) is true but (R) is false.",
+    "option_d": "Both (A) and (R) are false.",
+    "correct_option": "A"
+  },
+  {
+    "question_text": "2. The principle that suggests growth follows a pattern beginning from head and then proceeding to the rest of the body is :",
+    "option_a": "Proximodistal principle",
+    "option_b": "Cephalocaudal principle",
+    "option_c": "Principle of individuality",
+    "option_d": "Principle of uniformity",
+    "correct_option": "B"
+  },
+  {
+    "question_text": "3. __________ refers to the process of predetermined unfolding of genetic dispositions.",
+    "option_a": "Maturation",
+    "option_b": "Scaffolding",
+    "option_c": "Adaptation",
+    "option_d": "Socialisation",
+    "correct_option": "A"
+  },
+  {
+    "question_text": "4. According to Jean Piaget which of the following factors are influential in determining the course of cognitive development ?\n(i) Maturation\n(ii) Conditioning\n(iii) Punishment\n(iv) Activity\n(v) Social experience",
+    "option_a": "(i), (ii), (iv), (v)",
+    "option_b": "(ii), (iii), (iv)",
+    "option_c": "(iii), (iv), (v)",
+    "option_d": "(i), (ii), (iii), (iv), (v)",
+    "correct_option": "A"
+  },
+  {
+    "question_text": "5. According to Jean Piaget a child who believes that water when poured from one container to another, gains or looses in quantity depending on the shape of the second container :",
+    "option_a": "has not attained conservation",
+    "option_b": "has not mastered object permanence",
+    "option_c": "is limited in thinking due to animism",
+    "option_d": "is unable to perform seriation",
+    "correct_option": "A"
+  },
+  {
+    "question_text": "6. The correct sequence of stages of cognitive development given by Piaget is :",
+    "option_a": "Sensorimotor stage, Pre-Operational stage, Concrete Operational stage, and Formal Operational stage",
+    "option_b": "Pre-Operational stage, Concrete Operational stage, Sensorimotor stage, and Formal Operational stage",
+    "option_c": "Formal Operational stage, Concrete Operational stage, Pre-Operational stage, and Sensorimotor stage",
+    "option_d": "Sensorimotor stage, Concrete Operational stage, Pre-Operational stage, and Formal Operational stage",
+    "correct_option": "A"
+  },
+  {
+    "question_text": "7. Neha resists eating sweets her mother has got for guests because she might get caught. According to Kohlberg's theory Neha is at which stage of moral development ?",
+    "option_a": "Instrumental purpose orientation",
+    "option_b": "Punishment and obedience orientation",
+    "option_c": "Universal ethical principles",
+    "option_d": "Good boy-good girl orientation",
+    "correct_option": "B"
+  },
+  {
+    "question_text": "8. As per ___________ theory children learn through interaction with more knowledgeable peers and adults.",
+    "option_a": "Lev Vygotsky's",
+    "option_b": "Jean Piaget's",
+    "option_c": "Howard Gardner's",
+    "option_d": "Lawhrence Kohlberg",
+    "correct_option": "A"
+  },
+  {
+    "question_text": "9. What plays an important role in cognitive development according to Lev Vygotsky ?",
+    "option_a": "Conditioning",
+    "option_b": "Reinforcement",
+    "option_c": "Cultural context",
+    "option_d": "Heredity",
+    "correct_option": "C"
+  },
+  {
+    "question_text": "10. In Howard Gardner's theory of intelligence, the ability to manipulate both the body and objects is referred to as :",
+    "option_a": "Logico-mathematical intelligence",
+    "option_b": "Bodily-kinaesthetic intelligence",
+    "option_c": "Interpersonal intelligence",
+    "option_d": "Linguistic intelligence",
+    "correct_option": "B"
+  },
+  {
+    "question_text": "11. Visual-spatial intelligence includes :\n(1) The capacity to think in images and pictures, to visualise accurately and abstractly.\n(2) Sensitivity to rhythm, pitch, meter, tone, melody.\n(3) Ability to comprehend and create stories and poems.\n(4) Ability to classify natural forms such as animal and plant species and rocks and Mountain types.",
+    "option_a": "The capacity to think in images and pictures, to visualise accurately and abstractly.",
+    "option_b": "Sensitivity to rhythm, pitch, meter, tone, melody.",
+    "option_c": "Ability to comprehend and create stories and poems.",
+    "option_d": "Ability to classify natural forms such as animal and plant species and rocks and Mountain types.",
+    "correct_option": "A"
+  },
+  {
+    "question_text": "12. A teacher's remark to boys in a co-education class, \"Be strong and don't behave meekly like girls\" would encourage :",
+    "option_a": "gender equity",
+    "option_b": "gender stereotyping",
+    "option_c": "gender role flexibility",
+    "option_d": "gender equality",
+    "correct_option": "B"
+  },
+  {
+    "question_text": "13. What should be the pedagogical strategies in a classroom with diverse learners ?",
+    "option_a": "Reasonable accommodation",
+    "option_b": "Standardized assessment",
+    "option_c": "Decontextualized curriculum",
+    "option_d": "Inflexibility in approach",
+    "correct_option": "A"
+  },
+  {
+    "question_text": "14. Which of the following is an important aspect related to assessment for learning ?",
+    "option_a": "Single strategy of assessment can provide complete information about a child's progress and learning",
+    "option_b": "It serves to observe changes in learning progress over time",
+    "option_c": "It does not identify individual and specific needs of all children",
+    "option_d": "It helps teachers to identify children who are mentally retarded",
+    "correct_option": "B"
+  },
+  {
+    "question_text": "15. Aim of Assessment should be to :\n(1) Induce fear and stress in the students.\n(2) Create feeling of insecurity and inferiority.\n(3) Enable comparison among students.\n(4) Aid in the process of teaching learning.",
+    "option_a": "Induce fear and stress in the students.",
+    "option_b": "Create feeling of insecurity and inferiority.",
+    "option_c": "Enable comparison among students.",
+    "option_d": "Aid in the process of teaching learning.",
+    "correct_option": "D"
+  },
+  {
+    "question_text": "16. Assertion (A) : Only special children benefit from inclusive education.\nReason (R) : The concept of inclusive education is based on the philosophy of addressing only learners with some impairment.\nChoose the correct option.",
+    "option_a": "Both (A) and (R) are true and (R) is the correct explanation of (A).",
+    "option_b": "Both (A) and (R) are true but (R) is not the correct explanation of (A).",
+    "option_c": "(A) is true but (R) is false.",
+    "option_d": "Both (A) and (R) are false.",
+    "correct_option": "D"
+  },
+  {
+    "question_text": "17. To cater to students from disadvantaged backgrounds teachers should practise :",
+    "option_a": "Social exclusion",
+    "option_b": "Social marginalization",
+    "option_c": "Standardized curriculum",
+    "option_d": "Differentiated instruction",
+    "correct_option": "D"
+  },
+  {
+    "question_text": "18. ____________ is an example of assistive technology to aid mobility for students with locomotor disability.",
+    "option_a": "Wheelchair",
+    "option_b": "Large print books",
+    "option_c": "Word prediction software",
+    "option_d": "Tactile materials",
+    "correct_option": "A"
+  },
+  {
+    "question_text": "19. Difficulties in mathematical concepts and computation are typical characteristics of students with :",
+    "option_a": "Dyscalculia",
+    "option_b": "Dyslexia",
+    "option_c": "Dysgraphia",
+    "option_d": "Autism",
+    "correct_option": "A"
+  },
+  {
+    "question_text": "20. Typical identifying characteristics of creative children include :",
+    "option_a": "Rigidity for ideas",
+    "option_b": "High tolerance for boredom",
+    "option_c": "Preference for complexity",
+    "option_d": "Convergent thinking",
+    "correct_option": "C"
+  },
+  {
+    "question_text": "21. Meaningful learning involves :",
+    "option_a": "Provisions of rewards and punishment",
+    "option_b": "Opportunities to interact with each other",
+    "option_c": "Reflections on learning how to learn",
+    "option_d": "Opportunites for competition with peers",
+    "correct_option": "C"
+  },
+  {
+    "question_text": "22. Assertion (A) : Learner-centred approach is one where textbook is the centre of all learning.\nReason (R) : Students in middle school learn best when asked to reproduce the textbook as it is.\nChoose the correct option.",
+    "option_a": "Both (A) and (R) are true and (R) is the correct explanation of (A).",
+    "option_b": "Both (A) and (R) are true but (R) is not the correct explanation of (A).",
+    "option_c": "(A) is true but (R) is false.",
+    "option_d": "Both (A) and (R) are false.",
+    "correct_option": "D"
+  },
+  {
+    "question_text": "23. In a socio-constructivist classroom, learning :",
+    "option_a": "Is a permanent measurable change in the child's behaviour",
+    "option_b": "Is a process of co-construction of knowledge",
+    "option_c": "Happens by pairing of a stimulus and response",
+    "option_d": "Takes place when the students are offered positive reinforcement",
+    "correct_option": "B"
+  },
+  {
+    "question_text": "24. ____________ should be the basis for a conducive classroom environment for learning.",
+    "option_a": "Principles of conditioning and reinforcement",
+    "option_b": "Competition and individualism",
+    "option_c": "Cooperation and collaboration",
+    "option_d": "Segregation and labelling",
+    "correct_option": "C"
+  },
+  {
+    "question_text": "25. Assertion (A) : Encouraging middle school children to make intuitive guesses and prompting them to look for different ways is an effective strategy to promote problem-solving skills.\nReason (R) : Children learn through the processes of discussion and thinking of multiple perspectives.\nChoose the correct option.",
+    "option_a": "Both (A) and (R) are true and (R) is the correct explanation of (A).",
+    "option_b": "Both (A) and (R) are true but (R) is not the correct explanation of (A).",
+    "option_c": "(A) is true but (R) is false.",
+    "option_d": "Both (A) and (R) are false.",
+    "correct_option": "A"
+  },
+  {
+    "question_text": "26. Questions in the classrooms :\n(1) Should be asked by the students and answered by the teacher only.\n(2) Should be asked by the teacher and answered by the students only.\n(3) Should not be asked or responded by anyone.\n(4) Should be asked and answered both by the students and teachers.",
+    "option_a": "Should be asked by the students and answered by the teacher only.",
+    "option_b": "Should be asked by the teacher and answered by the students only.",
+    "option_c": "Should not be asked or responded by anyone.",
+    "option_d": "Should be asked and answered both by the students and teachers.",
+    "correct_option": "D"
+  },
+  {
+    "question_text": "27. Intrinsic motivation amongst students can be increased by :",
+    "option_a": "Offering materialist rewards",
+    "option_b": "Negative reinforcement",
+    "option_c": "Fear of punishment",
+    "option_d": "Focusing on the joy of learning",
+    "correct_option": "D"
+  },
+  {
+    "question_text": "28. Students in middle school construct knowledge and make meaning through :\n(i) Active exploration\n(ii) Working on abstract problems\n(iii) Enquiry and experimentation\n(iv) Interaction with teachers and peers",
+    "option_a": "(i) (iii)",
+    "option_b": "(i) (ii) (iv)",
+    "option_c": "(ii) (iii) (iv)",
+    "option_d": "(i) (ii) (iii) (iv)",
+    "correct_option": "D"
+  },
+  {
+    "question_text": "29. Teachers should encourage children to think of ability as ____________ and failure as ____________.",
+    "option_a": "Fixed; shameful and humiliating.",
+    "option_b": "Incremental; an oppportunity for improvement.",
+    "option_c": "Fixed; an opportunity for improvement.",
+    "option_d": "Incremental; shameful and humiliating.",
+    "correct_option": "B"
+  },
+  {
+    "question_text": "30. ____________ would be a contributing factor for children's academic failure.",
+    "option_a": "Collaborative learning",
+    "option_b": "Inclusive classroom",
+    "option_c": "Decontextualised curriculum",
+    "option_d": "Meaningful learning",
+    "correct_option": "C"
+  }
+]

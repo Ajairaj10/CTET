@@ -1,0 +1,122 @@
+[
+  {
+    "question_text": "1. Which of the following statement of a teacher reflects 'Gender Bias' ?",
+    "option_a": "\"Students ! All of you have done well !\"",
+    "option_b": "\"Boys ! you always make noise !\"",
+    "option_c": "\"Boys and girls, lets all play a game.\"",
+    "option_d": "\"Students, I am not happy with your performance.\"",
+    "correct_option": "B"
+  },
+  {
+    "question_text": "2. Which material is used for making solar cell ?",
+    "option_a": "Lead",
+    "option_b": "Sodium",
+    "option_c": "Copper",
+    "option_d": "Silicon",
+    "correct_option": "D"
+  },
+  {
+    "question_text": "3. Which of the following statement reflects 'Gender stereotyping' ?",
+    "option_a": "Generally girls are better cooks than boys.",
+    "option_b": "Asians are not good in sports.",
+    "option_c": "Generally girls have less muscle mass compared to boys.",
+    "option_d": "Boys and girls took part in wrestling.",
+    "correct_option": "A"
+  },
+  {
+    "question_text": "4. The male bird makes many beautiful woven nests and the female bird chooses, the best one to lay her eggs. The bird is",
+    "option_a": "Weaver bird",
+    "option_b": "Dove",
+    "option_c": "Tailor bird",
+    "option_d": "Sunbird",
+    "correct_option": "A"
+  },
+  {
+    "question_text": "5. Which of the following insects live in a group and have specific role allocation ?",
+    "option_a": "Honeybees, Ants, Spiders",
+    "option_b": "Wasps, Termites, Ants",
+    "option_c": "Ants, Mosquitoes, Spiders",
+    "option_d": "Honeybees, Housefly, Termites",
+    "correct_option": "B"
+  },
+  {
+    "question_text": "6. Identify the flowers.\nA - bloom only at night\nB - used for making medicines\nC - used for making dyes\nD - bloom all the year round\nA, B, C and D respectively are",
+    "option_a": "Hibiscus, Marigold, Rose, Datura",
+    "option_b": "Night queen, Hibiscus, Marigold, Rose",
+    "option_c": "Jasmine, Rose, Datura, Chrysanthemum",
+    "option_d": "Vinca, Datura, Rose, Chrysanthemum",
+    "correct_option": "B"
+  },
+  {
+    "question_text": "7. Which of the following statements is not correct in the context of honeybees in a beehive ?",
+    "option_a": "Only queen bee lays eggs.",
+    "option_b": "Worker bees are male bees.",
+    "option_c": "There are only few male bees in a hive.",
+    "option_d": "There is only one queen bee in a hive.",
+    "correct_option": "B"
+  },
+  {
+    "question_text": "8. Which of the following set is of fruits ?",
+    "option_a": "Potato, Brinjal, Mango",
+    "option_b": "Banana, Brinjal, Radish",
+    "option_c": "Tomato, Banana, Ginger",
+    "option_d": "Banana, Ladyfinger (okra), Potato",
+    "correct_option": "C"
+  },
+  {
+    "question_text": "9. Which of the statements is not correct regarding stepwells found in many parts of India ?",
+    "option_a": "They are traditional systems of water conservation.",
+    "option_b": "The water in stepwells cannot be used for drinking.",
+    "option_c": "They are based on principle of rainwater harvesting and recharging.",
+    "option_d": "They are used as community resource.",
+    "correct_option": "B"
+  },
+  {
+    "question_text": "10. A train travelling from Ahmedabad in Trivandrum crosses many tunnels. These tunnels are in the hills of",
+    "option_a": "Eastern Ghats",
+    "option_b": "Western Ghats",
+    "option_c": "Himalayas",
+    "option_d": "Aravalli",
+    "correct_option": "B"
+  },
+  {
+    "question_text": "11. Which of the following statements is true regarding elephants ?\nAssertion (A) : An elephant herd has only female elephants and baby elephants.\nReason (R) : Male elephants move around alone.",
+    "option_a": "Both A and R are true and R is the correct explanation for A",
+    "option_b": "Both A and R are true but R is not the correct explanation for A",
+    "option_c": "A is correct but R is not correct",
+    "option_d": "Both A and R are not correct",
+    "correct_option": "A"
+  },
+  {
+    "question_text": "12. The Haemoglobin level in the blood test reports of four class V children is given below :\nAman - 8 g/dl\nRadhika - 10 g/dl\nSurjeet - 14 g/dl\nMaria - 6 g/dl\nWhich of these children are anaemic ?",
+    "option_a": "Aman and Maria",
+    "option_b": "Radhika and Surjeet",
+    "option_c": "Aman, Radhika and Surjeet",
+    "option_d": "Aman, Radhika and Maria",
+    "correct_option": "D"
+  },
+  {
+    "question_text": "13. Which of the following statements regarding eyes in birds is/are true ?\nS1 : All birds have eyes on either side of their head.\nS2 : Birds cannot focus on two different things at a time.",
+    "option_a": "S1 is true and S2 is false",
+    "option_b": "S1 is false and S2 is true",
+    "option_c": "Both S1 and S2 are true",
+    "option_d": "Both S1 and S2 are false",
+    "correct_option": "C"
+  },
+  {
+    "question_text": "14. Which of the following features of tigers do not help them move in dark and find the prey ?",
+    "option_a": "Sensitive whiskers",
+    "option_b": "Movement of ears in different directions",
+    "option_c": "Loud roar",
+    "option_d": "Sharp sense of hearing",
+    "correct_option": "C"
+  },
+  {
+    "question_text": "15. Match the following correctly :\nNational Park | State in India\nA. Jim Corbett | i. Assam\nB. Kaziranga | ii. Uttarakhand\nC. Ranthambore | iii. Gujarat\nD. Gir | iv. Rajasthan",
+    "option_a": "A - iii, B - iv, C - i, D - ii",
+    "option_b": "A - ii, B - i, C - iv, D - iii",
+    "option_c": "A - iv, B - ii, C - i, D - iii",
+    "option_d": "A - i, B - iii, C - iv, D - ii",
+    "correct_option": "B"
+  }
+]
