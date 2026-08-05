@@ -1,0 +1,242 @@
+[
+  {
+    "question_text": "31. In order to identify individual differences of students in the mathematics class, which of the following assessment technique will not be appropriate ?",
+    "option_a": "Summative assessment",
+    "option_b": "Formative assessment",
+    "option_c": "Diagnostic assessment",
+    "option_d": "Peer assessment",
+    "correct_option": "1"
+  },
+  {
+    "question_text": "32. Which of the following resources is best suited to explain the concept of decimals ?\n(a) Number Chart\n(b) Dienes Blocks\n(c) Taylor's Abacus\n(d) Graph Paper\nChoose the correct option :",
+    "option_a": "Only (b)",
+    "option_b": "(b) and (d)",
+    "option_c": "(a) and (c)",
+    "option_d": "(a) and (b)",
+    "correct_option": "2"
+  },
+  {
+    "question_text": "33. Students in a class are solving questions based on percentage discounts. One question requires the students to calculate the cost of two bikes, with a 8% discount on each bike. One of the groups calculates the total cost of the bikes and then deducts 16% from the total cost. The method used by this group is :",
+    "option_a": "Correct and is the only way to calculate the discount and cost.",
+    "option_b": "An alternate strategy to solve the question.",
+    "option_c": "False, since they have deducted 16% discount from the total instead of 8%.",
+    "option_d": "False, since they have deducted 16% from the total instead of 16% from the average of the total.",
+    "correct_option": "3"
+  },
+  {
+    "question_text": "34. Arrangement of fractions 1/9, 1/21, 3/7, 12/63 in decreasing order is :",
+    "option_a": "3/7, 1/9, 12/63, 1/21",
+    "option_b": "3/7, 12/63, 1/9, 1/21",
+    "option_c": "12/63, 3/7, 1/21, 1/9",
+    "option_d": "1/9, 12/63, 3/7, 1/9",
+    "correct_option": "2"
+  },
+  {
+    "question_text": "35. Which of the following learning experiences for children does not reflect the contribution of mathematics to everyday life and society ?",
+    "option_a": "Communication of mathematical ideas in writing using both formal and informal languages.",
+    "option_b": "Meeting people from different areas of employment and exploring how they use mathematics in their work.",
+    "option_c": "Collecting, organising, representing and interpreting data in day-to-day life.",
+    "option_d": "Play small group games that draw on mathematical skills and concepts.",
+    "correct_option": "1"
+  },
+  {
+    "question_text": "36. Which of the following represents the features of a mathematics laboratory ?\n(a) It is a place to enjoy mathematics through informal exploration.\n(b) It provides opportunities to prove mathematical theorems through experiments.\n(c) It provides opportunity to make conjectures, test them and to generalise observed patterns.\n(d) It is used to assess students' knowledge of mathematics and grade them accordingly.\nChoose the correct option.",
+    "option_a": "(a) and (d)",
+    "option_b": "(a) and (c)",
+    "option_c": "(b) and (d)",
+    "option_d": "(b) and (c)",
+    "correct_option": "2"
+  },
+  {
+    "question_text": "37. One crore is :",
+    "option_a": "ten million",
+    "option_b": "one million",
+    "option_c": "one billion",
+    "option_d": "hundred million",
+    "correct_option": "1"
+  },
+  {
+    "question_text": "38. In a certain week, the number of patients in a dental clinic was as follows :\nDay | Number of patients\nMonday | 25\nTuesday | 38\nWednesday | 45\nThursday | 18\nFriday | 36\nSaturday | 39\nBased on above table, choose the wrong statement :",
+    "option_a": "Range of the data is 27",
+    "option_b": "On most of the days, number of patients was more than 30",
+    "option_c": "Difference between the number of patients on Monday and Wednesday is 20",
+    "option_d": "Total number of patients was 200",
+    "correct_option": "4"
+  },
+  {
+    "question_text": "39. Which of the following Indian mathematicians are known as founders of 'numerical analysis' ?\n(i) Ramanujan\n(ii) Bhaskaracharya\n(iii) Varahmihir\n(iv) Aryabhatta\nChoose the correct option.",
+    "option_a": "(i) and (iii)",
+    "option_b": "(ii) and (iv)",
+    "option_c": "(ii) and (iii)",
+    "option_d": "(i) and (iv)",
+    "correct_option": "3"
+  },
+  {
+    "question_text": "40. One egg has a mass of about 65g, what is the mass of 2 dozen eggs ?",
+    "option_a": "1.56 kg",
+    "option_b": "1 kg  56 g}",
+    "option_c": "1.304 kg",
+    "option_d": "1 kg  544 g",
+    "correct_option": "3"
+  },
+  {
+    "question_text": "41. Saumya joined her job on 13-01-1992 and she took retirement on 31-03-2023. Duration of her service was :",
+    "option_a": "30 years 10 months and 19 days",
+    "option_b": "30 years 9 months and 18 days",
+    "option_c": "31 years 2 months and 19 days",
+    "option_d": "31 years 2 months and 18 days",
+    "correct_option": "4"
+  },
+  {
+    "question_text": "42. Two angles of a triangle are 50° and 30°. Then, the third angle of the triangle is :",
+    "option_a": "100°",
+    "option_b": "40°",
+    "option_c": "60°",
+    "option_d": "80°",
+    "correct_option": "1"
+  },
+  {
+    "question_text": "43. National Curriculum Framework For Foundational Stage (NCFFS), 2022 highlighted the importance of the following components while teaching an abstract mathematical concept :\n(a) Written Symbols\n(b) Experience\n(c) Spoken Language\n(d) Picture\nWhich of the following is the appropriate sequence of these components while teaching an abstract mathematical concept ?",
+    "option_a": "(c) -> (a) -> (d) -> (b)",
+    "option_b": "(b) -> (c) -> (a) -> (d)",
+    "option_c": "(c) -> (d) -> (a) -> (b)",
+    "option_d": "(b) -> (c) -> (d) -> (a)",
+    "correct_option": "4"
+  },
+  {
+    "question_text": "44. Two columns are given as shown below :\nColumn - I\n(a) face of a black-board\n(b) a line has\n(c) a ray has\n(d) a line segment has\nColumn - II\n(i) two end points\n(ii) one end point\n(iii) represents a part of a plane\n(iv) no definite length\nColumn - I and II are matched as :",
+    "option_a": "(a)-(ii), (b)-(iii), (c)-(i), (d)-(iv)",
+    "option_b": "(a)-(iii), (b)-(ii), (c)-(i), (d)-(iv)",
+    "option_c": "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)",
+    "option_d": "(a)-(i), (b)-(iii), (c)-(iv), (d)-(ii)",
+    "correct_option": "3"
+  },
+  {
+    "question_text": "45. 22 hm 8 dam is equal to :",
+    "option_a": "22800 m",
+    "option_b": "2208 m",
+    "option_c": "2280 m",
+    "option_d": "22080 m",
+    "correct_option": "3"
+  },
+  {
+    "question_text": "46. If x : y = p : q, then which of the following is true ?\n(a) x + y : y = p + q : q\n(b) x - y : y = p - q : q\n(c) x : p = y : q\n(d) x + y : x - y = p - q : p + q\nChoose the correct option :",
+    "option_a": "(a) and (b)",
+    "option_b": "only (c)",
+    "option_c": "(a) and (d)",
+    "option_d": "(a), (b) and (c)",
+    "correct_option": "4"
+  },
+  {
+    "question_text": "47. 1233210 ÷ 5555 - 222 is equal to :",
+    "option_a": "1",
+    "option_b": "0",
+    "option_c": "2",
+    "option_d": "3",
+    "correct_option": "2"
+  },
+  {
+    "question_text": "48. Which of the following statement(s) is/are true about numbers ?\n(a) All positive integers are whole numbers.\n(b) All whole numbers are integers.\n(c) All rational numbers are real numbers.\n(d) All irrational numbers are real numbers.\nChoose the correct option :",
+    "option_a": "Only (b)",
+    "option_b": "Only (c)",
+    "option_c": "(b), (c) and (d)",
+    "option_d": "(a) and (d)",
+    "correct_option": "3"
+  },
+  {
+    "question_text": "49. Which of the following are correct examples of the statement \"mathematics is hierarchical in levels that are logically structured\".\n(a) The concept of integers needs to be developed before the concept of multiplication and division of numbers.\n(b) Multiplication follows and builds on the concept of addition.\n(c) Number sense needs to be developed before the concepts of addition and subtraction.\nChoose the correct option :",
+    "option_a": "(a) and (b)",
+    "option_b": "(b) and (c)",
+    "option_c": "(a) and (c)",
+    "option_d": "only (b)",
+    "correct_option": "2"
+  },
+  {
+    "question_text": "50. 12 thousand + 13 hundred + 2 tens is equal to :",
+    "option_a": "12132",
+    "option_b": "130132",
+    "option_c": "13320",
+    "option_d": "121320",
+    "correct_option": "4"
+  },
+  {
+    "question_text": "51. While teaching equations a teacher explains the concept of a linear equation having unique solution. She further asks, \"If a solution is given then how many equations you can create\" ?\nChoose the correct option :",
+    "option_a": "One equation",
+    "option_b": "No equation",
+    "option_c": "Many equations",
+    "option_d": "Two equations",
+    "correct_option": "3"
+  },
+  {
+    "question_text": "52. Which among the following is/are true about the computation in basic operations for Grade-II learners ?\n(a) It involves child's ability to develop informal strategies.\n(b) It involves child's ability to estimate.\n(c) It involves child's ability to do calculations with large numbers.\nChoose the correct option :",
+    "option_a": "Only (c)",
+    "option_b": "(b) and (c)",
+    "option_c": "(a) and (c)",
+    "option_d": "(a) and (b)",
+    "correct_option": "4"
+  },
+  {
+    "question_text": "53. A mathematics teacher discusses the concept of open and closed curve in class. For better understanding of students she gave an example with four points. If the curve is open then nature of four points is :\n(1) All are collinear\n(2) Two of them must be collinear\n(3) Three of them must be collinear\n(4) Three of them must be non-collinear",
+    "option_a": "All are collinear",
+    "option_b": "Two of them must be collinear",
+    "option_c": "Three of them must be collinear",
+    "option_d": "Three of them must be non-collinear",
+    "correct_option": "4"
+  },
+  {
+    "question_text": "54. The main approach suggested by National Curriculum Framework (NCF) 2005 in teaching learning of mathematics is :\n(1) Instructivism\n(2) Pragmatism\n(3) Behaviourism\n(4) Constructivism",
+    "option_a": "Instructivism",
+    "option_b": "Pragmatism",
+    "option_c": "Behaviourism",
+    "option_d": "Constructivism",
+    "correct_option": "4"
+  },
+  {
+    "question_text": "55. The missing number (?) in the following :\n43, 47, 53, 59, _ _ _, 67, 71, 73 is :",
+    "option_a": "61",
+    "option_b": "60",
+    "option_c": "63",
+    "option_d": "65",
+    "correct_option": "1"
+  },
+  {
+    "question_text": "56. In a mathematics class a teacher explains the concept of different angles. He/she realizes that scissors is a best example to explain _________.\n(a) Vertically opposite angles\n(b) Linear pair of angles\n(c) Corresponding angles\n(d) Alternate angles\nChoose the correct option :",
+    "option_a": "(a) and (b)",
+    "option_b": "(a) and (c)",
+    "option_c": "(c) and (d)",
+    "option_d": "(b) and (c)",
+    "correct_option": "1"
+  },
+  {
+    "question_text": "57. Raju has turpentine oil in 5 containers each of 20 L size. He fills them in 10 cans of 5 L, 10 cans of 2 L and rest in 1 L cans. Number of 1 L cans filled is :",
+    "option_a": "25",
+    "option_b": "30",
+    "option_c": "22",
+    "option_d": "28",
+    "correct_option": "3"
+  },
+  {
+    "question_text": "58. Which of the following letters has no line of symmetry ?",
+    "option_a": "L",
+    "option_b": "A",
+    "option_c": "M",
+    "option_d": "X",
+    "correct_option": "3"
+  },
+  {
+    "question_text": "59. If (7 * 2) * (123) = 92496, then value of * is :",
+    "option_a": "2",
+    "option_b": "1",
+    "option_c": "4",
+    "option_d": "5",
+    "correct_option": "3"
+  },
+  {
+    "question_text": "60. The difference between the greatest and smallest 6-digit numbers formed by using the digits 5, 1, 0, 3, 9 and 6 is :",
+    "option_a": "861741",
+    "option_b": "862731",
+    "option_c": "951741",
+    "option_d": "851731",
+    "correct_option": "3"
+  }
+]

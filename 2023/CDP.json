@@ -1,0 +1,242 @@
+[
+  {
+    "question_text": "1) Dysgraphia is a :",
+    "option_a": "Speech disorder characterized by stuttering and errors in articulation.",
+    "option_b": "Locomotor disorder characterized by gross motor impairment.",
+    "option_c": "Neurological disorder characterized by trouble in forming letters and shapes.",
+    "option_d": "Psychological disorder characterized by lack of attention and impulsive behaviour.",
+    "correct_option": "C"
+  },
+  {
+    "question_text": "2) The approach to educating gifted children which moves them through curriculum at an unusually rapid pace is known as :",
+    "option_a": "Differentiated instruction",
+    "option_b": "Enrichment",
+    "option_c": "Acceleration",
+    "option_d": "Immersion",
+    "correct_option": "C"
+  },
+  {
+    "question_text": "3) Teachers who are working towards inclusive classrooms :\n(i) Create curriculum adaptations\n(ii) Incorporate diverse perspectives\n(iii) Examine their own implicit bias\n(iv) See diversity as an obstacle\nWhich of the above are correct ?",
+    "option_a": "(i), (ii), (iii), (iv)",
+    "option_b": "(i), (ii), (iii)",
+    "option_c": "(i), (iii), (iv)",
+    "option_d": "(ii), (iii), (iv)",
+    "correct_option": "B"
+  },
+  {
+    "question_text": "4) While __________ agencies of socialisation are predominantly important in infancy, __________ agencies of socialisation also become important in early childhood.",
+    "option_a": "tertiary; secondary",
+    "option_b": "primary; secondary",
+    "option_c": "secondary; primary",
+    "option_d": "secondary; tertiary",
+    "correct_option": "B"
+  },
+  {
+    "question_text": "5) According to Lev Vygotsky :",
+    "option_a": "Social factors influence language development, but not cognitive development.",
+    "option_b": "Cognitive development facilitates language development.",
+    "option_c": "Language development and cognitive development advance independent from each other.",
+    "option_d": "Language development facilitates cognitive development.",
+    "correct_option": "D"
+  },
+  {
+    "question_text": "6) At which level of Lawrence Kohlberg's moral reasoning, do children typically believe that people should live up to the expectations of the society and behave in \"good\" ways ?",
+    "option_a": "Post-operational level",
+    "option_b": "Pre-conventional level",
+    "option_c": "Conventional level",
+    "option_d": "Pre-operational level",
+    "correct_option": "C"
+  },
+  {
+    "question_text": "7) Read the following statements and choose the correct option :\nAssertion (A) :\nInteraction with more knowledgeable others, such as teachers and peers, can provide the necessary support and guidance to help learners develop their understanding and skills.\nReason (R) :\nSocial interaction is a key component of learning and development.",
+    "option_a": "Both (A) and (R) are false.",
+    "option_b": "Both (A) and (R) are true and (R) is the correct explanation of (A).",
+    "option_c": "Both (A) and (R) are true, but (R) is not the correct explanation of (A).",
+    "option_d": "(A) is true, but (R) is false.",
+    "correct_option": "B"
+  },
+  {
+    "question_text": "8) What is the main goal of 'assessment for learning' ?",
+    "option_a": "To identify students who can be categorised as 'slow learners'",
+    "option_b": "To evaluate student performance and assign grades",
+    "option_c": "To provide feedback to students that can be used to improve their learning",
+    "option_d": "To compare student performance to a standard or benchmark",
+    "correct_option": "C"
+  },
+  {
+    "question_text": "9) At which age can children engage in word play and like jokes and riddles that involve a play on words ?",
+    "option_a": "Twelve years",
+    "option_b": "One year",
+    "option_c": "Three years",
+    "option_d": "Seven years",
+    "correct_option": "D"
+  },
+  {
+    "question_text": "10) Carol Gilligan has critiqued Kohlberg's theory of moral development :",
+    "option_a": "from a social cognitive perspective.",
+    "option_b": "from a feminist perspective.",
+    "option_c": "for not giving adequate importance to genetic factors.",
+    "option_d": "for using case study as the research method.",
+    "correct_option": "B"
+  },
+  {
+    "question_text": "11) One of the main characteristics of pre-operational thought according to Jean Piaget is ___________ which refers to the tendency to focus on one aspect of a situation and neglect others.",
+    "option_a": "Causation",
+    "option_b": "Centration",
+    "option_c": "Decentration",
+    "option_d": "Transduction",
+    "correct_option": "B"
+  },
+  {
+    "question_text": "12) In early childhood, growth ________ and thinking is ________, while in middle childhood, growth ________ and thinking is ________.",
+    "option_a": "slows, somewhat egocentric; is steady, logical",
+    "option_b": "is steady, somewhat egocentric; slows, logical",
+    "option_c": "is steady, logical; slows, egocentric",
+    "option_d": "slows, logical; is steady, egocentric",
+    "correct_option": "A"
+  },
+  {
+    "question_text": "13) Which of the following is a gross motor skill ?",
+    "option_a": "Knitting",
+    "option_b": "Swimming",
+    "option_c": "Cutting along the outline of a circle on a paper",
+    "option_d": "Cutting along the outline of a big rectangle on a paper",
+    "correct_option": "B"
+  },
+  {
+    "question_text": "14) Physical growth and development follow the ________ and ________ principles of development.",
+    "option_a": "integration (simple to complex); differentiation (complex to simple)",
+    "option_b": "cephalocaudal (top-down); proximodistal (inner to outer)",
+    "option_c": "proximodistal (top-down); cephalocaudal (inner to outer)",
+    "option_d": "differentiation (simple to complex); integration (complex to simple)",
+    "correct_option": "B"
+  },
+  {
+    "question_text": "15) According to Howard Gardner, a philosopher has ________ type of intelligence and a sculptor has more ________ type of intelligence.",
+    "option_a": "linguistic; interpersonal",
+    "option_b": "spatial; intrapersonal",
+    "option_c": "intrapersonal; spatial",
+    "option_d": "interpersonal; linguistic",
+    "correct_option": "C"
+  },
+  {
+    "question_text": "16) Experiential learning stresses on :",
+    "option_a": "control of teacher on the learning of children.",
+    "option_b": "the role of reinforcement in learning.",
+    "option_c": "importance of critical reflection.",
+    "option_d": "learning as a product rather than a process.",
+    "correct_option": "C"
+  },
+  {
+    "question_text": "17) Which of the following is an effective method to enhance problem-solving skills in children ?",
+    "option_a": "Discouraging independent thinking and focusing on declarative knowledge",
+    "option_b": "Encouraging them to avoid difficult problems",
+    "option_c": "Providing them with ready-made solutions to problems",
+    "option_d": "Giving them opportunities to brainstorm and make intuitive guesses",
+    "correct_option": "D"
+  },
+  {
+    "question_text": "18) Read the following statements and choose the correct option :\nAssertion (A) :\nTeachers should create a meaningful environment which seeks active participation and engagement of all children.\nReason (R) :\nAll children are intrinsically motivated to learn and are capable of learning.",
+    "option_a": "Both (A) and (R) are false.",
+    "option_b": "Both (A) and (R) are true and (R) is the correct explanation of (A).",
+    "option_c": "Both (A) and (R) are true, but (R) is not the correct explanation of (A).",
+    "option_d": "(A) is true, but (R) is false.",
+    "correct_option": "B"
+  },
+  {
+    "question_text": "19) Which of the following process does not contribute to the course of learning ?",
+    "option_a": "Organization",
+    "option_b": "Categorization",
+    "option_c": "Conceptualization",
+    "option_d": "Decontextualization",
+    "correct_option": "D"
+  },
+  {
+    "question_text": "20) Which of the following is an example of a question that requires students to reflect on their own thinking ?",
+    "option_a": "What is the relationship between nouns and verbs in a sentence ?",
+    "option_b": "What is the definition of a verb ?",
+    "option_c": "How do you change a verb to the present tense ?",
+    "option_d": "How has your thinking about the use of verbs changed since the beginning of the class ?",
+    "correct_option": "D"
+  },
+  {
+    "question_text": "21) Which of the following is an example of an internal attribution for failure ?",
+    "option_a": "I received a low grade because the teacher is a tough grader.",
+    "option_b": "I failed the test because I didn't study enough.",
+    "option_c": "I didn't get good marks because the teacher was biased.",
+    "option_d": "I failed the test because my friends were distracting me.",
+    "correct_option": "B"
+  },
+  {
+    "question_text": "22) Read the following statements and choose the correct option :\nAssertion (A) :\nAt a very early age, girls in most cultures across the world choose dolls as toys while boys prefer to play with cars.\nReason (R) :\nChildren organize information about what is considered appropriate for a boy or a girl on the basis of what a particular culture expects and behave accordingly.",
+    "option_a": "Both (A) and (R) are false.",
+    "option_b": "Both (A) and (R) are true and (R) is the correct explanation of (A).",
+    "option_c": "Both (A) and (R) are true, but (R) is not the correct explanation of (A).",
+    "option_d": "(A) is true, but (R) is false.",
+    "correct_option": "B"
+  },
+  {
+    "question_text": "23) As per Lev Vygotsky, ________ plays a significant role in the development of conceptual abilities among children.",
+    "option_a": "Tangible rewards",
+    "option_b": "Peer collaboration",
+    "option_c": "Social isolation",
+    "option_d": "Standardized curriculum",
+    "correct_option": "B"
+  },
+  {
+    "question_text": "24) According to Lev Vygotsky's theory, inner speech :\n(1) is a way for children to communicate with an imaginary friend.\n(2) is a sign of cognitive immaturity.\n(3) is a sign of developmental delay.\n(4) is a way for children to regulate their own thinking.",
+    "option_a": "is a way for children to communicate with an imaginary friend.",
+    "option_b": "is a sign of cognitive immaturity.",
+    "option_c": "is a sign of developmental delay.",
+    "option_d": "is a way for children to regulate their own thinking.",
+    "correct_option": "D"
+  },
+  {
+    "question_text": "25) Four-year-old Aparna says that a button is alive because it helps tie her shirt together. According to Jean Piaget, her thinking is characterized by :",
+    "option_a": "Transductive reasoning",
+    "option_b": "Animistic thinking",
+    "option_c": "Centration",
+    "option_d": "Hypothetical-deductive thinking",
+    "correct_option": "B"
+  },
+  {
+    "question_text": "26) Which of the following is a typical characterstic of students having autism ?",
+    "option_a": "Superior ability of differentiating fiction from fact",
+    "option_b": "Advanced socio-emotional reciprocity",
+    "option_c": "Frequent repetitive and recurring behaviour",
+    "option_d": "Higher level of communication skills",
+    "correct_option": "C"
+  },
+  {
+    "question_text": "27) Read the following statements and choose the correct option :\nAssertion (A) :\nTo facilitate critical thinking among learners, teachers should expose them to diverse situations and differing perspectives.\nReason (R) :\nStudents learn and enrich their abilities to think critically and creatively as they engage in conversations across differences.",
+    "option_a": "Both (A) and (R) are false.",
+    "option_b": "Both (A) and (R) are true and (R) is the correct explanation of (A).",
+    "option_c": "Both (A) and (R) are true, but (R) is not the correct explanation of (A).",
+    "option_d": "(A) is true, but (R) is false.",
+    "correct_option": "B"
+  },
+  {
+    "question_text": "28) The primary goal of learning should be :\n(1) memorization of facts.\n(2) becoming excellent at rote rehearsal.\n(3) competing with peers.\n(4) development of critical thinking.",
+    "option_a": "memorization of facts.",
+    "option_b": "becoming excellent at rote rehearsal.",
+    "option_c": "competing with peers.",
+    "option_d": "development of critical thinking.",
+    "correct_option": "D"
+  },
+  {
+    "question_text": "29) Children learn more effectively if a concept proceeds from :\n(1) Generic to Specific.\n(2) Abstract to Concrete.\n(3) Complex to Simple.\n(4) Rational to Empirical.",
+    "option_a": "Generic to Specific.",
+    "option_b": "Abstract to Concrete.",
+    "option_c": "Complex to Simple.",
+    "option_d": "Rational to Empirical.",
+    "correct_option": "A"
+  },
+  {
+    "question_text": "30) Variability in learning styles of students :\n(1) should be valued and seen as a reflection of human diversity.\n(2) should be ignored and attempts should be made to bring uniformity in learning styles.\n(3) should not be taken into consideration during teaching-learning process.\n(4) should be seen as a barrier and hindrance to teaching-learning process.",
+    "option_a": "should be valued and seen as a reflection of human diversity.",
+    "option_b": "should be ignored and attempts should be made to bring uniformity in learning styles.",
+    "option_c": "should not be taken into consideration during teaching-learning process.",
+    "option_d": "should be seen as a barrier and hindrance to teaching-learning process.",
+    "correct_option": "A"
+  }
+]

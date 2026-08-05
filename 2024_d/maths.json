@@ -1,0 +1,242 @@
+[
+  {
+    "question_text": "31. What is the result when 7 kg 7 g is subtracted from 9 kg ?",
+    "option_a": "1.93 kg",
+    "option_b": "1.093 kg",
+    "option_c": "1.3 kg",
+    "option_d": "1.993 kg",
+    "correct_option": "4"
+  },
+  {
+    "question_text": "32. In class III, 150 children were asked to name their one favourite fruit and results for 5 favourite fruits were written in the form of the following table :\nName of the Fruit | Number of Children\nApple | 28\nGuava | 26\nMangoes | 44\nBanana | 14\nGrapes | 28\nChoose the correct option :",
+    "option_a": "Equal number of children have Apple and Guava as their favourite fruit.",
+    "option_b": "The difference between the number of childrens who like grapes and those who like bananas is 16.",
+    "option_c": "The number of children who like Mangoes and Banana is two times the number of children who like Guava.",
+    "option_d": "Ten children do not like any fruit given in the table.",
+    "correct_option": "3"
+  },
+  {
+    "question_text": "33. Which of the following is least appropriate about Formative Assessment in mathematics classrooms ?",
+    "option_a": "It helps to identify students' misconceptions",
+    "option_b": "It provides cumulative evaluations that helps to rank children",
+    "option_c": "To check the progress of students during instructional activities",
+    "option_d": "To identify students' conceptual understanding",
+    "correct_option": "2"
+  },
+  {
+    "question_text": "34. A person withdrew ₹ 4,560 from his bank account on 4th of a month and deposited ₹ 2,567 on 20th of the same month. If at the end of the month, balance is ₹ 3,125, then money (in ₹) at the start of the month in his account was :",
+    "option_a": "5,128",
+    "option_b": "5,118",
+    "option_c": "4,998",
+    "option_d": "5,213",
+    "correct_option": "1"
+  },
+  {
+    "question_text": "35. A primary class mathematics teacher gave his students the following problem to solve :\n\"How many classes of 28 pupils would be needed for a school of 616 pupils ?\"\nOne of the student solved the problem in the following way :\n1 Class = 28 Pupils\n10 -> 2 8 0\n10 -> 2 8 0 = 5 6 0\n2 -> 5 6 -> (10 + 10 + 2 = 22)  = 6 1 6\nWhich of the following is most appropriate for the algorithm used by the student ?",
+    "option_a": "The student has used both the distributive and associative laws of division to solve the problem",
+    "option_b": "The student has used an incorrect algorithm to solve the problem",
+    "option_c": "The student has used the associative law of division across addition to solve the problem",
+    "option_d": "The student has used the distributive law of division across addition to solve the problem",
+    "correct_option": "4"
+  },
+  {
+    "question_text": "36. A triangle having all sides of different lengths is called :",
+    "option_a": "A scalene triangle",
+    "option_b": "A right triangle",
+    "option_c": "An equilateral triangle",
+    "option_d": "An isosceles triangle",
+    "correct_option": "1"
+  },
+  {
+    "question_text": "37. The sum of the prime numbers between 31 and 60 is :",
+    "option_a": "280",
+    "option_b": "311",
+    "option_c": "221",
+    "option_d": "227",
+    "correct_option": "2"
+  },
+  {
+    "question_text": "38. The product of the predecessor of 201 and the successor of 4781 is :",
+    "option_a": "965560",
+    "option_b": "965650",
+    "option_c": "956200",
+    "option_d": "956400",
+    "correct_option": "4"
+  },
+  {
+    "question_text": "39. What is the most appropriate cognitive skill that help students to recognize and group shapes according to their attributes and properties ?",
+    "option_a": "Conservation",
+    "option_b": "Decomposition",
+    "option_c": "Classification",
+    "option_d": "Seriation",
+    "correct_option": "3"
+  },
+  {
+    "question_text": "40. Students feel difficulty in solving division problems because :",
+    "option_a": "Division problems have no utility in daily life.",
+    "option_b": "There are no informal ways of solving division problems",
+    "option_c": "For solving division problems students need to know addition, subtraction and multiplication thoroughly.",
+    "option_d": "Students do not like the sign of division.",
+    "correct_option": "3"
+  },
+  {
+    "question_text": "41. Most II graders are able to add two quantities like four candies and three candies, but when asked to do 4 + 5 on a worksheet a large number of the same set of learners is unable to do so. What is the most appropriate explanation of this observation according to National Curriculum Framework 2005 ?",
+    "option_a": "Learners are not interested in learning real-life mathematics",
+    "option_b": "The learners are not ready for the use of abstract mathematical symbols",
+    "option_c": "Learners are not taught addition properly",
+    "option_d": "Some learners are poor in mathematical skills",
+    "correct_option": "2"
+  },
+  {
+    "question_text": "42. A 3rd standard student, when asked to write one hundred and five in numeral form, s/he writes it as '1005'. This indicates that :",
+    "option_a": "s/he needs more help in understanding the concept of place value",
+    "option_b": "s/he is unfit to learn mathematics",
+    "option_c": "The student is a slow learner",
+    "option_d": "s/he is mischievous",
+    "correct_option": "1"
+  },
+  {
+    "question_text": "43. Which of the following statements is NOT true with respect to the concept of Fractions ?",
+    "option_a": "It represents a part of a collection of same objects",
+    "option_b": "The mathematical notation of a fraction can be represented as a ratio",
+    "option_c": "It represents a part of a whole which is greater than 1",
+    "option_d": "The mathematical notation of a fraction can be represented as a division problem",
+    "correct_option": "3"
+  },
+  {
+    "question_text": "44. Radha walks 3m 725m per day on Monday, Wednesday and Friday, whereas she walks 2km 9m per day on Tuesday and Thursday. Total distance covered by her from Monday to Friday is :",
+    "option_a": "15.355 km",
+    "option_b": "15.193 km",
+    "option_c": "16.975 km",
+    "option_d": "16.202 km",
+    "correct_option": "3"
+  },
+  {
+    "question_text": "45. Jasmine said, “A rectangle has two pairs of opposite sides parallel; a square also has two pairs of opposite sides parallel and so does a parallelogram. So, both rectangle and square are also parallelograms.”\nJasmine is at _________ stage of Van Hieles theory of geometric thinking.",
+    "option_a": "Formal Deduction",
+    "option_b": "Visualization",
+    "option_c": "Analysis",
+    "option_d": "Relationships",
+    "correct_option": "4"
+  },
+  {
+    "question_text": "46. The sum of the greatest and smallest six digit numbers that can be formed from the digits 5, 9, 0, 2, 8 and 6 (without repetition) is :",
+    "option_a": "1192290",
+    "option_b": "1192209",
+    "option_c": "1292290",
+    "option_d": "1292209",
+    "correct_option": "3"
+  },
+  {
+    "question_text": "47. The missing numbers in the pattern 12, 14, 17, 13, 8, 14, 21, _ , _ are respectively :",
+    "option_a": "14, 5",
+    "option_b": "13, 4",
+    "option_c": "15, 7",
+    "option_d": "12, 3",
+    "correct_option": "3"
+  },
+  {
+    "question_text": "48. The smallest four-digit number which is a multiple of 6, 7 and 4 is :",
+    "option_a": "1006",
+    "option_b": "1008",
+    "option_c": "1000",
+    "option_d": "1002",
+    "correct_option": "2"
+  },
+  {
+    "question_text": "49. Which of the following has a definite length ?",
+    "option_a": "a ray",
+    "option_b": "a plane",
+    "option_c": "a line",
+    "option_d": "a line segment",
+    "correct_option": "4"
+  },
+  {
+    "question_text": "50. Which of the following is most appropriate for including open ended questions in mathematics class ?",
+    "option_a": "These questions develop critical thinking in students",
+    "option_b": "Answers to these questions are not given in the book",
+    "option_c": "These questions take more time to solve",
+    "option_d": "These questions are not easy to copy from each other",
+    "correct_option": "1"
+  },
+  {
+    "question_text": "51. Which of the following statements are true with respect to 'Data handling' ?",
+    "option_a": "A line graph is used to show comparison among categories of data.",
+    "option_b": "A histogram is used to compare the parts of a whole.",
+    "option_c": "A graphical representation of data is easier to understand when there is a trend or comparison to be shown.",
+    "option_d": "A bar graph displays data that changes continuously over periods of time.",
+    "correct_option": "3"
+  },
+  {
+    "question_text": "52. How many planks of size 2m * 35cm * 8cm can be made from a wooden block 8m long, 70cm wide and 40cm thick ?",
+    "option_a": "45",
+    "option_b": "40",
+    "option_c": "50",
+    "option_d": "48",
+    "correct_option": "4"
+  },
+  {
+    "question_text": "53. A child solved a problem : 1/2 + 1/3 = 2/5. What is the most appropriate inference drawn from the solution ?",
+    "option_a": "Child does not know how to represent fractions on number line",
+    "option_b": "Child has extended the concept of addition of natural numbers to addition of fractions",
+    "option_c": "Child does not know addition of numbers",
+    "option_d": "Child does not know how to take L.C.M.",
+    "correct_option": "2"
+  },
+  {
+    "question_text": "54. According to National Education Policy 2020 Mathematics and Computational Thinking is to be given increased importance as :",
+    "option_a": "It is foundational to evolving technologies like Artificial Intelligence (AI), machine learning and Data Science etc",
+    "option_b": "It can be a substitute for a teacher",
+    "option_c": "It is the most difficult aspect of learning in school",
+    "option_d": "It is foundational to human survival",
+    "correct_option": "1"
+  },
+  {
+    "question_text": "55. According to National Curriculum Framework 2005 mathematics teachers need to shift towards :\n(a) Promoting memorization and rigorous algorithms\n(b) Mathematical reasoning and logic\n(c) Becoming sole authority for right answers\nChoose the correct option :",
+    "option_a": "Only (b)",
+    "option_b": "(b) and (c)",
+    "option_c": "Only (a)",
+    "option_d": "(a) and (b)",
+    "correct_option": "1"
+  },
+  {
+    "question_text": "56. Which one of the following is the most effective way to introduce the concept of area to fourth graders ?",
+    "option_a": "Formula based method",
+    "option_b": "Approximation and Estimation",
+    "option_c": "Tessellations",
+    "option_d": "Abacus",
+    "correct_option": "3"
+  },
+  {
+    "question_text": "57. The value of 4/7 + 5/14 - 7/8 is :",
+    "option_a": "3/56",
+    "option_b": "5/56",
+    "option_c": "3/14",
+    "option_d": "5/28",
+    "correct_option": "1"
+  },
+  {
+    "question_text": "58. Which of the following letters has two lines of symmetry ?",
+    "option_a": "E",
+    "option_b": "U",
+    "option_c": "H",
+    "option_d": "B",
+    "correct_option": "3"
+  },
+  {
+    "question_text": "59. Which of the following is NOT related to Indian mathematics ?",
+    "option_a": "Surya Siddhant",
+    "option_b": "Baudhayan Sulba Sutra",
+    "option_c": "Lilavati",
+    "option_d": "Charak Samhita",
+    "correct_option": "4"
+  },
+  {
+    "question_text": "60. The difference of the place values of 5 and 7 in the number 352876 is :",
+    "option_a": "49997",
+    "option_b": "50007",
+    "option_c": "49930",
+    "option_d": "49993",
+    "correct_option": "4"
+  }
+]
